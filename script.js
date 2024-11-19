@@ -1,1 +1,1 @@
-import * as Polyominoes from "./polyominoes.mjs";
+import * as Polyominoes from "./modules/polyominoes.mjs";
