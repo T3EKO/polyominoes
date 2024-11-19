@@ -1,0 +1,1 @@
+import * as Polyominoes from "./polyominoes.mjs";
