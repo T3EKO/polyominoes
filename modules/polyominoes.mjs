@@ -18,14 +18,63 @@ class Polyomino {
         return this.#cells.length;
     }
 
-    // returns a certain cell contained by this polyomino
-    getCell(idx) {
-        return this.#cells[idx];
+    // returns whether or not a cell is contained at the given position
+    containsCell(pos) {
+        return ArrayFunctions.arrayContains(this.#cells, pos, Polyomino.cellsMatch);
     }
 
     // returns a copy of the list of cells contained by this polyomino
     getAllCells() {
         return this.#cells.map((cell) => [cell[0], cell[1]]);
+    }
+
+    // returns the set of all cells adjacent to the cells contained by this polyomino
+    getBorderCells() {
+        const edges = new Array();
+        const offsets = [[1, 0], [-1, 0], [0, 1], [0, -1]];
+        this.#cells.forEach((cell) => {
+            offsets.forEach((offset) => {
+                const pos = [cell[0] + offset[0], cell[1] + offset[1]];
+                if(ArrayFunctions.arrayContains(this.#cells, pos, Polyomino.cellsMatch)) return;
+                edges.push(pos);
+            });
+        });
+        return edges;
+    }
+
+    static #vertexLookupTable = [
+        false, // --|--
+        true,  // █-|--
+        true,  // -█|--
+        false, // ██|--
+        true,  // --|█-
+        false, // █-|█-
+        true,  // -█|█-
+        true,  // ██|█-
+        true,  // --|-█
+        true,  // █-|-█
+        false, // -█|-█
+        true,  // ██|-█
+        false, // --|██
+        true,  // █-|██
+        true,  // -█|██
+        false  // ██|██
+    ]
+
+    // returns the set of points along the border of the polyomino that are at a corner
+    // note: these vertices are not necessarily in the correct order to form a polygon/mesh
+    getVertices() {
+        const vertices = new Array();
+        const offsets = [[0, 0], [1, 0], [0, 1], [1, 1]];
+        const vertexCheckOffsets = [[-1, -1], [-1, 0], [0, -1], [0, 0]];
+        this.#cells.forEach((cell) => {
+            offsets.forEach((offset) => {
+                const adjacentCells = vertexCheckOffsets.map((vcoffset) => this.containsCell([cell[0] + offset[0] + vcoffset[0], cell[1] + offset[1] + vcoffset[1]]));
+                const vertexLookupIdx = adjacentCells[0] + adjacentCells[1] * 2 + adjacentCells[2] * 4 + adjacentCells[3] * 8;
+                if(Polyomino.#vertexLookupTable[vertexLookupIdx]) vertices.push([cell[0] + offset[0], cell[1] + offset[1]]);
+            });
+        });
+        return ArrayFunctions.filterUnique(vertices, Polyomino.cellsMatch);
     }
 
     // returns the dimensions of this polyomino
@@ -182,16 +231,7 @@ class PolyominoGenerator {
 
     // returns the set of all cells adjacent to the cells currently present in this generator
     getBorderCells() {
-        const edges = new Array();
-        const offsets = [[1, 0], [-1, 0], [0, 1], [0, -1]];
-        this.#cells.forEach((cell) => {
-            offsets.forEach((offset) => {
-                const pos = [cell[0] + offset[0], cell[1] + offset[1]];
-                if(ArrayFunctions.arrayContains(this.#cells, pos, Polyomino.cellsMatch)) return;
-                edges.push(pos);
-            });
-        });
-        return edges;
+        return Polyomino.cast(this).getBorderCells();
     }
 
     // returns every descendant of this generator
@@ -210,16 +250,32 @@ class PolyominoGenerator {
         return ArrayFunctions.filterUnique(this.getDescendants(), (a, b) => Polyomino.cast(a).matchesFixed(Polyomino.cast(b)));
     }
 
+    // returns a random descendant of this generator
+    getRandomDescendant() {
+        const cCells = this.getAllCells();
+        cCells.push(ArrayFunctions.getRandomElement(this.getBorderCells()));
+        return new PolyominoGenerator(this.#goalCellCount, cCells);
+    }
+
     // recursively generates the distinct fixed descendants of the current generator until it reaches a complete polyomino
-    recursivelyGetDistinctFixedDescendantsUntilComplete() {
+    generateAllDistinctFixedCompleteDescendants() {
         if(this.#goalCellCount <= this.#cells.length) {
-            return new Polyomino(this.#cells.slice(0, this.#goalCellCount));
+            return new Polyomino(this.getAllCells().slice(0, this.#goalCellCount));
         }
 
         const descendants = this.getDistinctFixedDescendants().map((descendant) => {
-            return descendant.recursivelyGetDistinctFixedDescendantsUntilComplete();
+            return descendant.generateAllDistinctFixedCompleteDescendants();
         }).flat(this.#goalCellCount - this.#cells.length + 1);
         return ArrayFunctions.filterUnique(descendants, (a, b) => Polyomino.cast(a).matchesFixed(Polyomino.cast(b)));
+    }
+
+    // repeatedly generates a random descendant of this generator until it reaches a complete polyomino
+    generateRandomCompleteDescendant() {
+        if(this.#goalCellCount <= this.#cells.length) {
+            return new Polyomino(this.getAllCells().slice(0, this.#goalCellCount));
+        }
+
+        return this.getRandomDescendant().generateRandomCompleteDescendant();
     }
 }
 
@@ -233,7 +289,7 @@ function drawPolyomino(polyomino, cellSize, borderSize, fillColor, borderColor) 
     ctx.fillStyle = fillColor || "#ff0000";
     ctx.strokeStyle = borderColor || "#000000";
     for(let i = 0;i < polyomino.cellCount;i++) {
-        let cell = polyomino.getCell(i);
+        let cell = polyomino.getAllCells()[i];
         ctx.fillRect(cell[0] * cellSize + borderSize * 0.5, cell[1] * cellSize + borderSize * 0.5, cellSize, cellSize);
         ctx.strokeRect(cell[0] * cellSize + borderSize * 0.5, cell[1] * cellSize + borderSize * 0.5, cellSize, cellSize);
     }

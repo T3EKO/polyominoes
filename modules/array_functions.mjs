@@ -1,5 +1,8 @@
 function arrayContains(array, value, predicate) {
-    return array.filter((v) => predicate(v, value)).length > 0;
+    for(let i = 0;i < array.length;i++) {
+        if(predicate(array[i], value)) return true;
+    }
+    return false;
 }
 
 function filterUnique(array, predicate) {
@@ -11,4 +14,8 @@ function filterUnique(array, predicate) {
     return uniqueArray;
 }
 
-export { arrayContains, filterUnique }
+function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
+export { arrayContains, filterUnique, getRandomElement }
