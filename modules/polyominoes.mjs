@@ -28,6 +28,17 @@ class Polyomino {
         return this.#cells.map((cell) => [cell[0], cell[1]]);
     }
 
+    // removes the cell at the specified position from the polyomino (or doesn't do anything if no cell is present)
+    removeCell(pos) {
+        this.#cells = this.#cells.filter((cell) => !Polyomino.cellsMatch(cell, pos));
+        return this;
+    }
+
+    // returns a copy of this polyomino with the cell at the specified position removed
+    withoutCell(pos) {
+        return this.clone().removeCell(pos);
+    }
+
     // returns the set of all cells adjacent to the cells contained by this polyomino
     getBorderCells() {
         const edges = new Array();
@@ -40,6 +51,51 @@ class Polyomino {
             });
         });
         return edges;
+    }
+
+    // returns the positions and directions of exposed faces of cells contained by this polyomino
+    getSurface() {
+        const faces = new Array();
+        const directions = [[1, 0], [-1, 0], [0, 1], [0, -1]];
+        this.#cells.forEach((cell) => {
+            directions.forEach((direction) => {
+                const pos = [cell[0] + direction[0], cell[1] + direction[1]];
+                if(this.containsCell(pos)) return;
+                faces.push([cell[0], cell[1], direction[0], direction[1]]);
+            });
+        });
+        return ArrayFunctions.filterUnique(faces, (a, b) => a[0] == b[0] && a[1] == b[1] && a[2] == b[2] && a[3] == b[3]);
+    }
+
+    // returns the number of exposed faces of cells contained by this polyomino
+    getSurfaceArea() {
+        return this.getSurface().length;
+    }
+
+    // checks if all the cells in this polyomino are connected
+    isContiguous() {
+        let connectedCells = [this.getAllCells()[0]];
+        const offsets = [[1, 0], [-1, 0], [0, 1], [0, -1]];
+        let newCells;
+        while(newCells !== 0) {
+            const adjacentCells = ArrayFunctions.filterUnique(connectedCells.map((cell) => offsets.map((offset) => [cell[0] + offset[0], cell[1] + offset[1]])).flat(1), Polyomino.cellsMatch);
+            const newCellArray = ArrayFunctions.setSubtract(ArrayFunctions.setIntersect(adjacentCells, this.#cells, Polyomino.cellsMatch), connectedCells, Polyomino.cellsMatch);
+
+            newCells = newCellArray.length;
+            connectedCells = connectedCells.concat(newCellArray);
+
+        }
+        return connectedCells.length == this.#cells.length;
+    }
+
+    // returns a list of all weight bearing cells in this polyomino
+    getWeightBearingCells() {
+        return this.#cells.filter((cell) => !this.withoutCell(cell).isContiguous());
+    }
+
+    // returns the number of non-weight-bearing cells in this polyomino
+    getStability() {
+        return this.#cells.length - this.getWeightBearingCells().length;
     }
 
     static #vertexLookupTable = [
@@ -75,6 +131,54 @@ class Polyomino {
             });
         });
         return ArrayFunctions.filterUnique(vertices, Polyomino.cellsMatch);
+    }
+
+    getXCellCounts() {
+        const cellCounts = new Array();
+        for(let iy = 0;iy < this.size[1];iy++) {
+            let sum = 0;
+            for(let ix = 0;ix < this.size[0];ix++) {
+                sum += this.containsCell([ix, iy]);
+            }
+            cellCounts.push(sum);
+        }
+        return cellCounts;
+    }
+
+    getYCellCounts() {
+        const cellCounts = new Array();
+        for(let ix = 0;ix < this.size[0];ix++) {
+            let sum = 0;
+            for(let iy = 0;iy < this.size[1];iy++) {
+                sum += this.containsCell([ix, iy]);
+            }
+            cellCounts.push(sum);
+        }
+        return cellCounts;
+    }
+
+    getAxisCellCounts(axis) {
+        switch(axis) {
+        case 'x':
+            return this.getXCellCounts();
+        case 'y':
+            return this.getYCellCounts();
+        }
+        return null;
+    }
+
+    getXWeights() {
+        let xCellCounts = this.getXCellCounts();
+        let topWeight = xCellCounts.slice(0, Math.floor(xCellCounts.length * 0.5)).reduce((a, b) => a + b);
+        let bottomWeight = xCellCounts.slice(Math.ceil(xCellCounts.length * 0.5)).reduce((a, b) => a + b);
+        return [topWeight, bottomWeight];
+    }
+
+    getYWeights() {
+        let yCellCounts = this.getYCellCounts();
+        let leftWeight = yCellCounts.slice(0, Math.floor(yCellCounts.length * 0.5)).reduce((a, b) => a + b);
+        let rightWeight = yCellCounts.slice(Math.ceil(yCellCounts.length * 0.5)).reduce((a, b) => a + b);
+        return [leftWeight, rightWeight];
     }
 
     // returns the dimensions of this polyomino
@@ -158,6 +262,66 @@ class Polyomino {
     // returns a rotated version of this polyomino without mutating this one
     rotated(quarterTurns) {
         return this.clone().rotate(quarterTurns);
+    }
+
+    // returns the number of axes of reflectional symmetry of this polyomino (up to 4)
+    getReflectionalSymmetry() {
+        let axisCount = 0;
+        if(this.matchesFixed(this.flipped('x'))) axisCount++;
+        if(this.matchesFixed(this.flipped('y'))) axisCount++;
+        if(this.matchesFixed(this.flipped('x').rotated(1))) axisCount++;
+        if(this.matchesFixed(this.flipped('x').rotated(-1))) axisCount++;
+        return axisCount;
+    }
+
+    // WIP
+    // generates a list of a set of properties that uniquely identifies this polyomino
+    // these properties should allow putting polyominoes in order, as well as flipping and rotating distinct fixed versions of a distinct free polyomino so that they all end up with the same orientation
+    Properties = class {
+        cellCount;              // number of cells contained by a polyomino
+        surfaceArea;            // the number of exposed faces of cells in a polyomino
+        stability;              // the number of non-weight-bearing cells // a cell is considered weight bearing if removing the cell would result in a non-contiguous polyomino
+        reflectionalSymmetry;   // the number of axes of reflectional symmetry
+        rotationalSymmerty;     // the number of degrees of rotational symmetry
+
+        constructor(cellCount, surfaceArea, stability, reflectionalSymmetry, rotationalSymmerty) {
+            this.cellCount = cellCount;
+            this.surfaceArea = surfaceArea;
+            this.stability = stability;
+            this.reflectionalSymmetry = reflectionalSymmetry;
+            this.rotationalSymmerty = rotationalSymmerty;
+        }
+    }
+
+    getProperties() {
+        return new Polyomino.Properties(
+            this.#cells.length,
+            this.getSurfaceArea(),
+            this.getStability()
+        );
+    }
+
+    // WIP
+    // meant to turn all 8 free distinct versions of a polyomino into one
+    orient() {
+        if(this.size[1] < this.size[0]) this.rotate(1);
+
+        let xWeights = this.getXWeights();
+        if(xWeights[1] > xWeights[0]) this.flip('x');
+        let yWeights = this.getYWeights();
+        if(yWeights[1] > yWeights[0]) this.flip('y');
+
+        xWeights = this.getXWeights();
+        yWeights = this.getYWeights();
+        if(xWeights[1] > yWeights[1]) {
+            this.flip('x');
+        }
+
+        return this;
+    }
+
+    oriented() {
+        return this.clone().orient();
     }
 
     // tests if another polyomino is an exact match this one

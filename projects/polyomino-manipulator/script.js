@@ -10,11 +10,15 @@ import * as Polyominoes from "/modules/polyominoes.mjs"
 // have a class for every sub-system, storing information about that system and various methods required for it
 // this has the added benefit that all that is needed to start things going is to instantiate the class and run an init function
 
-const p = new Polyominoes.PolyominoGenerator(5).generateRandomCompleteDescendant();
-const el = Polyominoes.drawPolyomino(p, 64, 3, "#00ff00");
 
-document.body.appendChild(el);
+// const poly = new Polyominoes.Polyomino([[0, 0], [1, 0], [2, 0], [2, 1], [2, 2], [1, 2], [0, 1]]);
+const poly = new Polyominoes.PolyominoGenerator(7).generateRandomCompleteDescendant();
+window.poly = poly;
 
-const dataURL = el.toDataURL("image/png");
-
-document.getElementById("dynamicFavicon").href = dataURL;
+for(let i = 0;i < 4;i++) {
+    const el = Polyominoes.drawPolyomino(poly.rotated(i), 64, 10, "#3f3f3f", "#00000000");
+    const oriented = poly.rotated(i).oriented();
+    const elO = Polyominoes.drawPolyomino(oriented, 64, 10, "#7f3f7f", "#00000000");
+    document.body.appendChild(el);
+    document.body.appendChild(elO);
+}

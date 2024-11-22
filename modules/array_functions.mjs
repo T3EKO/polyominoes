@@ -18,4 +18,12 @@ function getRandomElement(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-export { arrayContains, filterUnique, getRandomElement }
+function setIntersect(setA, setB, predicate) {
+    return setA.filter((element) => arrayContains(setB, element, predicate));
+}
+
+function setSubtract(setA, setB, predicate) {
+    return setA.filter((element) => !arrayContains(setB, element, predicate));
+}
+
+export { arrayContains, filterUnique, getRandomElement, setIntersect, setSubtract }
