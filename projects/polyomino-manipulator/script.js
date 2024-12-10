@@ -213,7 +213,7 @@ function generateOminoInfo(omino, n) {
         `# \`#${n}\` - \`${omino.size.x}x${omino.size.y}\` ${omino.getName()}`,
         `\`${generateUniqueIndex(omino)}\` | \`0b${generateUniqueIndex(omino).toString(2)}\` | \`0x${generateUniqueIndex(omino).toString(16)}\``,
         `\n\`\`\`\n${omino.getShapeString()}\n\`\`\``,
-        `\nother instances: ${duplicateIdxs.length}\n${duplicateData.join("\n")}`,
+        `\nother instances: ${duplicateIdxs.length}\n${duplicateData.join("\n\n")}`,
         `--------`
     ].join("\n");
 }
