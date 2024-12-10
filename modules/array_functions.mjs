@@ -5,6 +5,23 @@ function arrayContains(array, value, predicate) {
     return false;
 }
 
+function numberOfOccurances(array, value, predicate) {
+    let numOcc = 0;
+    for(let i = 0;i < array.length;i++) {
+        if(predicate(array[i], value)) numOcc++;
+    }
+    return numOcc;
+}
+
+function findDuplicateIdxs(array, value, predicate, vIdx) {
+    let duplicateIdxs = new Array();
+    for(let i = 0;i < array.length;i++) {
+        if(i == vIdx) continue;
+        if(predicate(array[i], value)) duplicateIdxs.push(i);
+    }
+    return duplicateIdxs;
+}
+
 function filterUnique(array, predicate) {
     const uniqueArray = new Array();
     for(let i = 0;i < array.length;i++) {
@@ -26,4 +43,4 @@ function setSubtract(setA, setB, predicate) {
     return setA.filter((element) => !arrayContains(setB, element, predicate));
 }
 
-export { arrayContains, filterUnique, getRandomElement, setIntersect, setSubtract }
+export { arrayContains, numberOfOccurances, findDuplicateIdxs, filterUnique, getRandomElement, setIntersect, setSubtract }
