@@ -210,10 +210,10 @@ function generateOminoInfo(omino, n) {
     );
 
     return [
-        `#${n}`,
+        `# ${n}`,
         `${generateUniqueIndex(omino)} - ${omino.size.x}x${omino.size.y} ${omino.getName()}`,
         `0b${generateUniqueIndex(omino).toString(2)} | 0x${generateUniqueIndex(omino).toString(16)}`,
-        `\n${omino.getShapeString()}`,
+        `\n\`\`\`\n${omino.getShapeString()}\n\`\`\``,
         `\nother instances: ${duplicateIdxs.length}\n${duplicateData.join("\n")}`,
         `--------`
     ].join("\n");

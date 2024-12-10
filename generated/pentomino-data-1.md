@@ -1,8 +1,10 @@
-#0
+# 0
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $9
@@ -22,12 +24,14 @@ other instances: 15
     - $813
 --------
 
-#1
+# 1
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $15
@@ -47,12 +51,14 @@ other instances: 15
     - $805
 --------
 
-#2
+# 2
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $23
@@ -72,12 +78,14 @@ other instances: 15
     - $806
 --------
 
-#3
+# 3
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $11
@@ -109,12 +117,14 @@ other instances: 27
     - $807
 --------
 
-#4
+# 4
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $16
@@ -146,12 +156,14 @@ other instances: 27
     - $808
 --------
 
-#5
+# 5
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $24
@@ -183,12 +195,14 @@ other instances: 27
     - $809
 --------
 
-#6
+# 6
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $29
@@ -220,12 +234,14 @@ other instances: 27
     - $810
 --------
 
-#7
+# 7
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $36
@@ -245,12 +261,14 @@ other instances: 15
     - $811
 --------
 
-#8
+# 8
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $42
@@ -270,11 +288,13 @@ other instances: 15
     - $812
 --------
 
-#9
+# 9
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -294,12 +314,14 @@ other instances: 15
     - $813
 --------
 
-#10
+# 10
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $65
@@ -319,12 +341,14 @@ other instances: 15
     - $764
 --------
 
-#11
+# 11
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -356,13 +380,15 @@ other instances: 27
     - $807
 --------
 
-#12
+# 12
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $84
@@ -374,12 +400,14 @@ other instances: 7
     - $766
 --------
 
-#13
+# 13
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $25
@@ -427,12 +455,14 @@ other instances: 43
     - $779
 --------
 
-#14
+# 14
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $37
@@ -452,12 +482,14 @@ other instances: 15
     - $791
 --------
 
-#15
+# 15
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -477,12 +509,14 @@ other instances: 15
     - $805
 --------
 
-#16
+# 16
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -514,12 +548,14 @@ other instances: 27
     - $808
 --------
 
-#17
+# 17
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $100
@@ -539,13 +575,15 @@ other instances: 15
     - $771
 --------
 
-#18
+# 18
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $105
@@ -563,13 +601,15 @@ other instances: 13
     - $772
 --------
 
-#19
+# 19
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $110
@@ -585,12 +625,14 @@ other instances: 11
     - $773
 --------
 
-#20
+# 20
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $31
@@ -638,13 +680,15 @@ other instances: 43
     - $785
 --------
 
-#21
+# 21
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $122
@@ -656,12 +700,14 @@ other instances: 7
     - $775
 --------
 
-#22
+# 22
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $44
@@ -681,12 +727,14 @@ other instances: 15
     - $798
 --------
 
-#23
+# 23
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -706,12 +754,14 @@ other instances: 15
     - $806
 --------
 
-#24
+# 24
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -743,12 +793,14 @@ other instances: 27
     - $809
 --------
 
-#25
+# 25
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -796,13 +848,15 @@ other instances: 43
     - $779
 --------
 
-#26
+# 26
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $68
@@ -818,12 +872,14 @@ other instances: 11
     - $780
 --------
 
-#27
+# 27
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $38
@@ -871,12 +927,14 @@ other instances: 43
     - $792
 --------
 
-#28
+# 28
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -908,12 +966,14 @@ other instances: 27
     - $807
 --------
 
-#29
+# 29
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -945,13 +1005,15 @@ other instances: 27
     - $810
 --------
 
-#30
+# 30
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $89
@@ -971,12 +1033,14 @@ other instances: 15
     - $784
 --------
 
-#31
+# 31
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -1024,13 +1088,15 @@ other instances: 43
     - $785
 --------
 
-#32
+# 32
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $91
@@ -1058,13 +1124,15 @@ other instances: 23
     - $786
 --------
 
-#33
+# 33
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $92
@@ -1084,12 +1152,14 @@ other instances: 15
     - $787
 --------
 
-#34
+# 34
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $46
@@ -1137,12 +1207,14 @@ other instances: 43
     - $800
 --------
 
-#35
+# 35
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -1174,12 +1246,14 @@ other instances: 27
     - $808
 --------
 
-#36
+# 36
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -1199,12 +1273,14 @@ other instances: 15
     - $811
 --------
 
-#37
+# 37
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -1224,12 +1300,14 @@ other instances: 15
     - $791
 --------
 
-#38
+# 38
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -1277,13 +1355,15 @@ other instances: 43
     - $792
 --------
 
-#39
+# 39
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $128
@@ -1295,12 +1375,14 @@ other instances: 7
     - $793
 --------
 
-#40
+# 40
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $95
@@ -1320,12 +1402,14 @@ other instances: 15
     - $794
 --------
 
-#41
+# 41
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -1357,12 +1441,14 @@ other instances: 27
     - $809
 --------
 
-#42
+# 42
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -1382,13 +1468,15 @@ other instances: 15
     - $812
 --------
 
-#43
+# 43
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $154
@@ -1400,12 +1488,14 @@ other instances: 7
     - $797
 --------
 
-#44
+# 44
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -1425,13 +1515,15 @@ other instances: 15
     - $798
 --------
 
-#45
+# 45
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $156
@@ -1447,12 +1539,14 @@ other instances: 11
     - $799
 --------
 
-#46
+# 46
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -1500,13 +1594,15 @@ other instances: 43
     - $800
 --------
 
-#47
+# 47
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $158
@@ -1524,12 +1620,14 @@ other instances: 13
     - $801
 --------
 
-#48
+# 48
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -1561,12 +1659,14 @@ other instances: 27
     - $810
 --------
 
-#49
+# 49
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $60
@@ -1586,11 +1686,13 @@ other instances: 15
     - $803
 --------
 
-#50
+# 50
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -1610,12 +1712,14 @@ other instances: 15
     - $813
 --------
 
-#51
+# 51
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -1635,12 +1739,14 @@ other instances: 15
     - $805
 --------
 
-#52
+# 52
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -1660,12 +1766,14 @@ other instances: 15
     - $806
 --------
 
-#53
+# 53
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -1697,12 +1805,14 @@ other instances: 27
     - $807
 --------
 
-#54
+# 54
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -1734,12 +1844,14 @@ other instances: 27
     - $808
 --------
 
-#55
+# 55
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -1771,12 +1883,14 @@ other instances: 27
     - $809
 --------
 
-#56
+# 56
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -1808,12 +1922,14 @@ other instances: 27
     - $810
 --------
 
-#57
+# 57
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -1833,12 +1949,14 @@ other instances: 15
     - $811
 --------
 
-#58
+# 58
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -1858,11 +1976,13 @@ other instances: 15
     - $812
 --------
 
-#59
+# 59
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -1882,12 +2002,14 @@ other instances: 15
     - $813
 --------
 
-#60
+# 60
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -1907,13 +2029,15 @@ other instances: 15
     - $803
 --------
 
-#61
+# 61
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $185
@@ -1925,12 +2049,14 @@ other instances: 7
     - $749
 --------
 
-#62
+# 62
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -1978,13 +2104,15 @@ other instances: 43
     - $779
 --------
 
-#63
+# 63
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $72
@@ -2000,12 +2128,14 @@ other instances: 11
     - $751
 --------
 
-#64
+# 64
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -2053,12 +2183,14 @@ other instances: 43
     - $800
 --------
 
-#65
+# 65
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -2078,12 +2210,14 @@ other instances: 15
     - $764
 --------
 
-#66
+# 66
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -2115,12 +2249,14 @@ other instances: 27
     - $809
 --------
 
-#67
+# 67
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -2168,13 +2304,15 @@ other instances: 43
     - $779
 --------
 
-#68
+# 68
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -2190,12 +2328,14 @@ other instances: 11
     - $780
 --------
 
-#69
+# 69
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -2243,12 +2383,14 @@ other instances: 43
     - $792
 --------
 
-#70
+# 70
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -2280,13 +2422,15 @@ other instances: 27
     - $807
 --------
 
-#71
+# 71
 74131 - 3x3 pentomino
 0b10010000110010011 | 0x12193
 
+```
 ██ 
  █ 
  ██
+```
 
 other instances: 3
     - $390
@@ -2294,13 +2438,15 @@ other instances: 3
     - $635
 --------
 
-#72
+# 72
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -2316,14 +2462,16 @@ other instances: 11
     - $751
 --------
 
-#73
+# 73
 12459 - 2x4 pentomino
 0b11000010101011 | 0x30ab
 
+```
 █ 
 █ 
 █ 
 ██
+```
 
 other instances: 3
     - $392
@@ -2331,13 +2479,15 @@ other instances: 3
     - $637
 --------
 
-#74
+# 74
 3131 - 2x3 pentomino
 0b110000111011 | 0xc3b
 
+```
 ██
 █ 
 ██
+```
 
 other instances: 3
     - $393
@@ -2345,13 +2495,15 @@ other instances: 3
     - $638
 --------
 
-#75
+# 75
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $78
@@ -2375,12 +2527,14 @@ other instances: 19
     - $732
 --------
 
-#76
+# 76
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -2428,12 +2582,14 @@ other instances: 43
     - $800
 --------
 
-#77
+# 77
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -2481,13 +2637,15 @@ other instances: 43
     - $792
 --------
 
-#78
+# 78
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -2511,13 +2669,15 @@ other instances: 19
     - $732
 --------
 
-#79
+# 79
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $114
@@ -2541,12 +2701,14 @@ other instances: 19
     - $733
 --------
 
-#80
+# 80
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -2594,12 +2756,14 @@ other instances: 43
     - $785
 --------
 
-#81
+# 81
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -2647,12 +2811,14 @@ other instances: 43
     - $779
 --------
 
-#82
+# 82
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -2672,12 +2838,14 @@ other instances: 15
     - $764
 --------
 
-#83
+# 83
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -2709,13 +2877,15 @@ other instances: 27
     - $807
 --------
 
-#84
+# 84
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -2727,12 +2897,14 @@ other instances: 7
     - $766
 --------
 
-#85
+# 85
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -2780,12 +2952,14 @@ other instances: 43
     - $779
 --------
 
-#86
+# 86
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -2805,12 +2979,14 @@ other instances: 15
     - $791
 --------
 
-#87
+# 87
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -2830,12 +3006,14 @@ other instances: 15
     - $805
 --------
 
-#88
+# 88
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -2867,13 +3045,15 @@ other instances: 27
     - $810
 --------
 
-#89
+# 89
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -2893,12 +3073,14 @@ other instances: 15
     - $784
 --------
 
-#90
+# 90
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -2946,13 +3128,15 @@ other instances: 43
     - $785
 --------
 
-#91
+# 91
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -2980,13 +3164,15 @@ other instances: 23
     - $786
 --------
 
-#92
+# 92
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -3006,12 +3192,14 @@ other instances: 15
     - $787
 --------
 
-#93
+# 93
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -3059,12 +3247,14 @@ other instances: 43
     - $800
 --------
 
-#94
+# 94
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -3096,12 +3286,14 @@ other instances: 27
     - $808
 --------
 
-#95
+# 95
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -3121,12 +3313,14 @@ other instances: 15
     - $794
 --------
 
-#96
+# 96
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -3174,13 +3368,15 @@ other instances: 43
     - $785
 --------
 
-#97
+# 97
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $141
@@ -3196,13 +3392,15 @@ other instances: 11
     - $708
 --------
 
-#98
+# 98
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $145
@@ -3214,12 +3412,14 @@ other instances: 7
     - $709
 --------
 
-#99
+# 99
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -3267,12 +3467,14 @@ other instances: 43
     - $792
 --------
 
-#100
+# 100
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -3292,13 +3494,15 @@ other instances: 15
     - $771
 --------
 
-#101
+# 101
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $320
@@ -3310,13 +3514,15 @@ other instances: 7
     - $665
 --------
 
-#102
+# 102
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -3344,14 +3550,16 @@ other instances: 23
     - $786
 --------
 
-#103
+# 103
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $339
@@ -3361,13 +3569,15 @@ other instances: 5
     - $667
 --------
 
-#104
+# 104
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $107
@@ -3383,13 +3593,15 @@ other instances: 11
     - $671
 --------
 
-#105
+# 105
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -3407,13 +3619,15 @@ other instances: 13
     - $772
 --------
 
-#106
+# 106
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -3433,13 +3647,15 @@ other instances: 15
     - $787
 --------
 
-#107
+# 107
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -3455,14 +3671,16 @@ other instances: 11
     - $671
 --------
 
-#108
+# 108
 12382 - 2x4 pentomino
 0b11000001011110 | 0x305e
 
+```
  █
  █
 ██
 █ 
+```
 
 other instances: 3
     - $362
@@ -3470,13 +3688,15 @@ other instances: 3
     - $672
 --------
 
-#109
+# 109
 73972 - 3x3 pentomino
 0b10010000011110100 | 0x120f4
 
+```
  ██
 ██ 
 █  
+```
 
 other instances: 3
     - $363
@@ -3484,13 +3704,15 @@ other instances: 3
     - $673
 --------
 
-#110
+# 110
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -3506,12 +3728,14 @@ other instances: 11
     - $773
 --------
 
-#111
+# 111
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -3559,12 +3783,14 @@ other instances: 43
     - $800
 --------
 
-#112
+# 112
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -3612,13 +3838,15 @@ other instances: 43
     - $792
 --------
 
-#113
+# 113
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -3642,13 +3870,15 @@ other instances: 19
     - $732
 --------
 
-#114
+# 114
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -3672,12 +3902,14 @@ other instances: 19
     - $733
 --------
 
-#115
+# 115
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -3725,12 +3957,14 @@ other instances: 43
     - $785
 --------
 
-#116
+# 116
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -3778,12 +4012,14 @@ other instances: 43
     - $779
 --------
 
-#117
+# 117
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -3815,12 +4051,14 @@ other instances: 27
     - $808
 --------
 
-#118
+# 118
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -3840,13 +4078,15 @@ other instances: 15
     - $771
 --------
 
-#119
+# 119
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -3864,13 +4104,15 @@ other instances: 13
     - $772
 --------
 
-#120
+# 120
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -3886,12 +4128,14 @@ other instances: 11
     - $773
 --------
 
-#121
+# 121
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -3939,13 +4183,15 @@ other instances: 43
     - $785
 --------
 
-#122
+# 122
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -3957,12 +4203,14 @@ other instances: 7
     - $775
 --------
 
-#123
+# 123
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -3982,12 +4230,14 @@ other instances: 15
     - $798
 --------
 
-#124
+# 124
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -4007,12 +4257,14 @@ other instances: 15
     - $806
 --------
 
-#125
+# 125
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -4032,12 +4284,14 @@ other instances: 15
     - $811
 --------
 
-#126
+# 126
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -4057,12 +4311,14 @@ other instances: 15
     - $791
 --------
 
-#127
+# 127
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -4110,13 +4366,15 @@ other instances: 43
     - $792
 --------
 
-#128
+# 128
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -4128,12 +4386,14 @@ other instances: 7
     - $793
 --------
 
-#129
+# 129
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -4153,12 +4413,14 @@ other instances: 15
     - $794
 --------
 
-#130
+# 130
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -4190,12 +4452,14 @@ other instances: 27
     - $809
 --------
 
-#131
+# 131
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -4243,12 +4507,14 @@ other instances: 43
     - $800
 --------
 
-#132
+# 132
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -4296,13 +4562,15 @@ other instances: 43
     - $792
 --------
 
-#133
+# 133
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -4326,13 +4594,15 @@ other instances: 19
     - $732
 --------
 
-#134
+# 134
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -4356,12 +4626,14 @@ other instances: 19
     - $733
 --------
 
-#135
+# 135
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -4409,12 +4681,14 @@ other instances: 43
     - $785
 --------
 
-#136
+# 136
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -4462,13 +4736,15 @@ other instances: 43
     - $779
 --------
 
-#137
+# 137
 3127 - 2x3 pentomino
 0b110000110111 | 0xc37
 
+```
 ██
  █
 ██
+```
 
 other instances: 3
     - $299
@@ -4476,13 +4752,15 @@ other instances: 3
     - $701
 --------
 
-#138
+# 138
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -4506,14 +4784,16 @@ other instances: 19
     - $733
 --------
 
-#139
+# 139
 12375 - 2x4 pentomino
 0b11000001010111 | 0x3057
 
+```
  █
  █
  █
 ██
+```
 
 other instances: 3
     - $301
@@ -4521,13 +4801,15 @@ other instances: 3
     - $703
 --------
 
-#140
+# 140
 73942 - 3x3 pentomino
 0b10010000011010110 | 0x120d6
 
+```
  ██
  █ 
 ██ 
+```
 
 other instances: 3
     - $302
@@ -4535,13 +4817,15 @@ other instances: 3
     - $704
 --------
 
-#141
+# 141
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -4557,12 +4841,14 @@ other instances: 11
     - $708
 --------
 
-#142
+# 142
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -4582,12 +4868,14 @@ other instances: 15
     - $794
 --------
 
-#143
+# 143
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -4635,13 +4923,15 @@ other instances: 43
     - $785
 --------
 
-#144
+# 144
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -4657,13 +4947,15 @@ other instances: 11
     - $708
 --------
 
-#145
+# 145
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -4675,12 +4967,14 @@ other instances: 7
     - $709
 --------
 
-#146
+# 146
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -4728,12 +5022,14 @@ other instances: 43
     - $792
 --------
 
-#147
+# 147
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -4753,12 +5049,14 @@ other instances: 15
     - $771
 --------
 
-#148
+# 148
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -4790,12 +5088,14 @@ other instances: 27
     - $809
 --------
 
-#149
+# 149
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -4843,13 +5143,15 @@ other instances: 43
     - $779
 --------
 
-#150
+# 150
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -4865,12 +5167,14 @@ other instances: 11
     - $780
 --------
 
-#151
+# 151
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -4918,12 +5222,14 @@ other instances: 43
     - $792
 --------
 
-#152
+# 152
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -4955,12 +5261,14 @@ other instances: 27
     - $807
 --------
 
-#153
+# 153
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -4980,13 +5288,15 @@ other instances: 15
     - $812
 --------
 
-#154
+# 154
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -4998,12 +5308,14 @@ other instances: 7
     - $797
 --------
 
-#155
+# 155
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -5023,13 +5335,15 @@ other instances: 15
     - $798
 --------
 
-#156
+# 156
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -5045,12 +5359,14 @@ other instances: 11
     - $799
 --------
 
-#157
+# 157
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -5098,13 +5414,15 @@ other instances: 43
     - $800
 --------
 
-#158
+# 158
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -5122,12 +5440,14 @@ other instances: 13
     - $801
 --------
 
-#159
+# 159
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -5159,12 +5479,14 @@ other instances: 27
     - $810
 --------
 
-#160
+# 160
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -5184,13 +5506,15 @@ other instances: 15
     - $803
 --------
 
-#161
+# 161
 74137 - 3x3 pentomino
 0b10010000110011001 | 0x12199
 
+```
 ██ 
  ██
   █
+```
 
 other instances: 3
     - $258
@@ -5198,13 +5522,15 @@ other instances: 3
     - $725
 --------
 
-#162
+# 162
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -5220,14 +5546,16 @@ other instances: 11
     - $799
 --------
 
-#163
+# 163
 12461 - 2x4 pentomino
 0b11000010101101 | 0x30ad
 
+```
 █ 
 █ 
 ██
  █
+```
 
 other instances: 3
     - $260
@@ -5235,13 +5563,15 @@ other instances: 3
     - $727
 --------
 
-#164
+# 164
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $173
@@ -5257,13 +5587,15 @@ other instances: 11
     - $737
 --------
 
-#165
+# 165
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -5283,12 +5615,14 @@ other instances: 15
     - $784
 --------
 
-#166
+# 166
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -5336,12 +5670,14 @@ other instances: 43
     - $800
 --------
 
-#167
+# 167
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -5389,13 +5725,15 @@ other instances: 43
     - $792
 --------
 
-#168
+# 168
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -5419,13 +5757,15 @@ other instances: 19
     - $732
 --------
 
-#169
+# 169
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -5449,12 +5789,14 @@ other instances: 19
     - $733
 --------
 
-#170
+# 170
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -5502,12 +5844,14 @@ other instances: 43
     - $785
 --------
 
-#171
+# 171
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -5555,13 +5899,15 @@ other instances: 43
     - $779
 --------
 
-#172
+# 172
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -5579,13 +5925,15 @@ other instances: 13
     - $801
 --------
 
-#173
+# 173
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -5601,14 +5949,16 @@ other instances: 11
     - $737
 --------
 
-#174
+# 174
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $271
@@ -5618,13 +5968,15 @@ other instances: 5
     - $738
 --------
 
-#175
+# 175
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $272
@@ -5636,13 +5988,15 @@ other instances: 7
     - $739
 --------
 
-#176
+# 176
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -5670,12 +6024,14 @@ other instances: 23
     - $786
 --------
 
-#177
+# 177
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -5707,13 +6063,15 @@ other instances: 27
     - $810
 --------
 
-#178
+# 178
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -5733,12 +6091,14 @@ other instances: 15
     - $784
 --------
 
-#179
+# 179
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -5786,13 +6146,15 @@ other instances: 43
     - $785
 --------
 
-#180
+# 180
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -5820,13 +6182,15 @@ other instances: 23
     - $786
 --------
 
-#181
+# 181
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -5846,12 +6210,14 @@ other instances: 15
     - $787
 --------
 
-#182
+# 182
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -5899,12 +6265,14 @@ other instances: 43
     - $800
 --------
 
-#183
+# 183
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -5936,12 +6304,14 @@ other instances: 27
     - $808
 --------
 
-#184
+# 184
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -5961,13 +6331,15 @@ other instances: 15
     - $803
 --------
 
-#185
+# 185
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -5979,12 +6351,14 @@ other instances: 7
     - $749
 --------
 
-#186
+# 186
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -6032,13 +6406,15 @@ other instances: 43
     - $779
 --------
 
-#187
+# 187
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -6054,12 +6430,14 @@ other instances: 11
     - $751
 --------
 
-#188
+# 188
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -6107,12 +6485,14 @@ other instances: 43
     - $800
 --------
 
-#189
+# 189
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -6132,11 +6512,13 @@ other instances: 15
     - $764
 --------
 
-#190
+# 190
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -6156,12 +6538,14 @@ other instances: 15
     - $813
 --------
 
-#191
+# 191
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -6181,12 +6565,14 @@ other instances: 15
     - $805
 --------
 
-#192
+# 192
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -6206,12 +6592,14 @@ other instances: 15
     - $806
 --------
 
-#193
+# 193
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -6243,12 +6631,14 @@ other instances: 27
     - $807
 --------
 
-#194
+# 194
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -6280,12 +6670,14 @@ other instances: 27
     - $808
 --------
 
-#195
+# 195
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -6317,12 +6709,14 @@ other instances: 27
     - $809
 --------
 
-#196
+# 196
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -6354,12 +6748,14 @@ other instances: 27
     - $810
 --------
 
-#197
+# 197
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -6379,12 +6775,14 @@ other instances: 15
     - $811
 --------
 
-#198
+# 198
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -6404,11 +6802,13 @@ other instances: 15
     - $812
 --------
 
-#199
+# 199
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -6428,12 +6828,14 @@ other instances: 15
     - $813
 --------
 
-#200
+# 200
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -6453,12 +6855,14 @@ other instances: 15
     - $764
 --------
 
-#201
+# 201
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -6490,13 +6894,15 @@ other instances: 27
     - $807
 --------
 
-#202
+# 202
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -6508,12 +6914,14 @@ other instances: 7
     - $766
 --------
 
-#203
+# 203
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -6561,12 +6969,14 @@ other instances: 43
     - $779
 --------
 
-#204
+# 204
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -6586,12 +6996,14 @@ other instances: 15
     - $791
 --------
 
-#205
+# 205
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -6611,12 +7023,14 @@ other instances: 15
     - $805
 --------
 
-#206
+# 206
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -6648,12 +7062,14 @@ other instances: 27
     - $808
 --------
 
-#207
+# 207
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -6673,13 +7089,15 @@ other instances: 15
     - $771
 --------
 
-#208
+# 208
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -6697,13 +7115,15 @@ other instances: 13
     - $772
 --------
 
-#209
+# 209
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -6719,12 +7139,14 @@ other instances: 11
     - $773
 --------
 
-#210
+# 210
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -6772,13 +7194,15 @@ other instances: 43
     - $785
 --------
 
-#211
+# 211
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -6790,12 +7214,14 @@ other instances: 7
     - $775
 --------
 
-#212
+# 212
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -6815,12 +7241,14 @@ other instances: 15
     - $798
 --------
 
-#213
+# 213
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -6840,12 +7268,14 @@ other instances: 15
     - $806
 --------
 
-#214
+# 214
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -6877,12 +7307,14 @@ other instances: 27
     - $809
 --------
 
-#215
+# 215
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -6930,13 +7362,15 @@ other instances: 43
     - $779
 --------
 
-#216
+# 216
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -6952,12 +7386,14 @@ other instances: 11
     - $780
 --------
 
-#217
+# 217
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -7005,12 +7441,14 @@ other instances: 43
     - $792
 --------
 
-#218
+# 218
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -7042,12 +7480,14 @@ other instances: 27
     - $807
 --------
 
-#219
+# 219
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -7079,13 +7519,15 @@ other instances: 27
     - $810
 --------
 
-#220
+# 220
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -7105,12 +7547,14 @@ other instances: 15
     - $784
 --------
 
-#221
+# 221
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -7158,13 +7602,15 @@ other instances: 43
     - $785
 --------
 
-#222
+# 222
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -7192,13 +7638,15 @@ other instances: 23
     - $786
 --------
 
-#223
+# 223
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -7218,12 +7666,14 @@ other instances: 15
     - $787
 --------
 
-#224
+# 224
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -7271,12 +7721,14 @@ other instances: 43
     - $800
 --------
 
-#225
+# 225
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -7308,12 +7760,14 @@ other instances: 27
     - $808
 --------
 
-#226
+# 226
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -7333,12 +7787,14 @@ other instances: 15
     - $811
 --------
 
-#227
+# 227
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -7358,12 +7814,14 @@ other instances: 15
     - $791
 --------
 
-#228
+# 228
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -7411,13 +7869,15 @@ other instances: 43
     - $792
 --------
 
-#229
+# 229
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -7429,12 +7889,14 @@ other instances: 7
     - $793
 --------
 
-#230
+# 230
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -7454,12 +7916,14 @@ other instances: 15
     - $794
 --------
 
-#231
+# 231
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -7491,12 +7955,14 @@ other instances: 27
     - $809
 --------
 
-#232
+# 232
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -7516,13 +7982,15 @@ other instances: 15
     - $812
 --------
 
-#233
+# 233
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -7534,12 +8002,14 @@ other instances: 7
     - $797
 --------
 
-#234
+# 234
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -7559,13 +8029,15 @@ other instances: 15
     - $798
 --------
 
-#235
+# 235
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -7581,12 +8053,14 @@ other instances: 11
     - $799
 --------
 
-#236
+# 236
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -7634,13 +8108,15 @@ other instances: 43
     - $800
 --------
 
-#237
+# 237
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -7658,12 +8134,14 @@ other instances: 13
     - $801
 --------
 
-#238
+# 238
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -7695,12 +8173,14 @@ other instances: 27
     - $810
 --------
 
-#239
+# 239
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -7720,11 +8200,13 @@ other instances: 15
     - $803
 --------
 
-#240
+# 240
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -7744,12 +8226,14 @@ other instances: 15
     - $813
 --------
 
-#241
+# 241
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -7769,12 +8253,14 @@ other instances: 15
     - $805
 --------
 
-#242
+# 242
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -7794,12 +8280,14 @@ other instances: 15
     - $806
 --------
 
-#243
+# 243
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -7831,12 +8319,14 @@ other instances: 27
     - $807
 --------
 
-#244
+# 244
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -7868,12 +8358,14 @@ other instances: 27
     - $808
 --------
 
-#245
+# 245
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -7905,12 +8397,14 @@ other instances: 27
     - $809
 --------
 
-#246
+# 246
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -7942,12 +8436,14 @@ other instances: 27
     - $810
 --------
 
-#247
+# 247
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -7967,12 +8463,14 @@ other instances: 15
     - $811
 --------
 
-#248
+# 248
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -7992,11 +8490,13 @@ other instances: 15
     - $812
 --------
 
-#249
+# 249
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -8016,12 +8516,14 @@ other instances: 15
     - $813
 --------
 
-#250
+# 250
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -8041,13 +8543,15 @@ other instances: 15
     - $812
 --------
 
-#251
+# 251
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -8059,12 +8563,14 @@ other instances: 7
     - $797
 --------
 
-#252
+# 252
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -8084,13 +8590,15 @@ other instances: 15
     - $798
 --------
 
-#253
+# 253
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -8106,12 +8614,14 @@ other instances: 11
     - $799
 --------
 
-#254
+# 254
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -8159,13 +8669,15 @@ other instances: 43
     - $800
 --------
 
-#255
+# 255
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -8183,12 +8695,14 @@ other instances: 13
     - $801
 --------
 
-#256
+# 256
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -8220,12 +8734,14 @@ other instances: 27
     - $810
 --------
 
-#257
+# 257
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -8245,13 +8761,15 @@ other instances: 15
     - $803
 --------
 
-#258
+# 258
 74137 - 3x3 pentomino
 0b10010000110011001 | 0x12199
 
+```
 ██ 
  ██
   █
+```
 
 other instances: 3
     - $161
@@ -8259,13 +8777,15 @@ other instances: 3
     - $725
 --------
 
-#259
+# 259
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -8281,14 +8801,16 @@ other instances: 11
     - $799
 --------
 
-#260
+# 260
 12461 - 2x4 pentomino
 0b11000010101101 | 0x30ad
 
+```
 █ 
 █ 
 ██
  █
+```
 
 other instances: 3
     - $163
@@ -8296,13 +8818,15 @@ other instances: 3
     - $727
 --------
 
-#261
+# 261
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -8318,13 +8842,15 @@ other instances: 11
     - $737
 --------
 
-#262
+# 262
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -8344,12 +8870,14 @@ other instances: 15
     - $784
 --------
 
-#263
+# 263
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -8397,12 +8925,14 @@ other instances: 43
     - $800
 --------
 
-#264
+# 264
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -8450,13 +8980,15 @@ other instances: 43
     - $792
 --------
 
-#265
+# 265
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -8480,13 +9012,15 @@ other instances: 19
     - $732
 --------
 
-#266
+# 266
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -8510,12 +9044,14 @@ other instances: 19
     - $733
 --------
 
-#267
+# 267
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -8563,12 +9099,14 @@ other instances: 43
     - $785
 --------
 
-#268
+# 268
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -8616,13 +9154,15 @@ other instances: 43
     - $779
 --------
 
-#269
+# 269
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -8640,13 +9180,15 @@ other instances: 13
     - $801
 --------
 
-#270
+# 270
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -8662,14 +9204,16 @@ other instances: 11
     - $737
 --------
 
-#271
+# 271
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $174
@@ -8679,13 +9223,15 @@ other instances: 5
     - $738
 --------
 
-#272
+# 272
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -8697,13 +9243,15 @@ other instances: 7
     - $739
 --------
 
-#273
+# 273
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -8731,12 +9279,14 @@ other instances: 23
     - $786
 --------
 
-#274
+# 274
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -8768,13 +9318,15 @@ other instances: 27
     - $810
 --------
 
-#275
+# 275
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -8794,12 +9346,14 @@ other instances: 15
     - $784
 --------
 
-#276
+# 276
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -8847,13 +9401,15 @@ other instances: 43
     - $785
 --------
 
-#277
+# 277
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -8881,13 +9437,15 @@ other instances: 23
     - $786
 --------
 
-#278
+# 278
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -8907,12 +9465,14 @@ other instances: 15
     - $787
 --------
 
-#279
+# 279
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -8960,12 +9520,14 @@ other instances: 43
     - $800
 --------
 
-#280
+# 280
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -8997,12 +9559,14 @@ other instances: 27
     - $808
 --------
 
-#281
+# 281
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -9022,13 +9586,15 @@ other instances: 15
     - $803
 --------
 
-#282
+# 282
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -9040,12 +9606,14 @@ other instances: 7
     - $749
 --------
 
-#283
+# 283
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -9093,13 +9661,15 @@ other instances: 43
     - $779
 --------
 
-#284
+# 284
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -9115,12 +9685,14 @@ other instances: 11
     - $751
 --------
 
-#285
+# 285
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -9168,12 +9740,14 @@ other instances: 43
     - $800
 --------
 
-#286
+# 286
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -9193,12 +9767,14 @@ other instances: 15
     - $764
 --------
 
-#287
+# 287
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -9218,12 +9794,14 @@ other instances: 15
     - $811
 --------
 
-#288
+# 288
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -9243,12 +9821,14 @@ other instances: 15
     - $791
 --------
 
-#289
+# 289
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -9296,13 +9876,15 @@ other instances: 43
     - $792
 --------
 
-#290
+# 290
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -9314,12 +9896,14 @@ other instances: 7
     - $793
 --------
 
-#291
+# 291
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -9339,12 +9923,14 @@ other instances: 15
     - $794
 --------
 
-#292
+# 292
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -9376,12 +9962,14 @@ other instances: 27
     - $809
 --------
 
-#293
+# 293
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -9429,12 +10017,14 @@ other instances: 43
     - $800
 --------
 
-#294
+# 294
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -9482,13 +10072,15 @@ other instances: 43
     - $792
 --------
 
-#295
+# 295
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -9512,13 +10104,15 @@ other instances: 19
     - $732
 --------
 
-#296
+# 296
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -9542,12 +10136,14 @@ other instances: 19
     - $733
 --------
 
-#297
+# 297
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -9595,12 +10191,14 @@ other instances: 43
     - $785
 --------
 
-#298
+# 298
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -9648,13 +10246,15 @@ other instances: 43
     - $779
 --------
 
-#299
+# 299
 3127 - 2x3 pentomino
 0b110000110111 | 0xc37
 
+```
 ██
  █
 ██
+```
 
 other instances: 3
     - $137
@@ -9662,13 +10262,15 @@ other instances: 3
     - $701
 --------
 
-#300
+# 300
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -9692,14 +10294,16 @@ other instances: 19
     - $733
 --------
 
-#301
+# 301
 12375 - 2x4 pentomino
 0b11000001010111 | 0x3057
 
+```
  █
  █
  █
 ██
+```
 
 other instances: 3
     - $139
@@ -9707,13 +10311,15 @@ other instances: 3
     - $703
 --------
 
-#302
+# 302
 73942 - 3x3 pentomino
 0b10010000011010110 | 0x120d6
 
+```
  ██
  █ 
 ██ 
+```
 
 other instances: 3
     - $140
@@ -9721,13 +10327,15 @@ other instances: 3
     - $704
 --------
 
-#303
+# 303
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -9743,12 +10351,14 @@ other instances: 11
     - $708
 --------
 
-#304
+# 304
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -9768,12 +10378,14 @@ other instances: 15
     - $794
 --------
 
-#305
+# 305
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -9821,13 +10433,15 @@ other instances: 43
     - $785
 --------
 
-#306
+# 306
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -9843,13 +10457,15 @@ other instances: 11
     - $708
 --------
 
-#307
+# 307
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -9861,12 +10477,14 @@ other instances: 7
     - $709
 --------
 
-#308
+# 308
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -9914,12 +10532,14 @@ other instances: 43
     - $792
 --------
 
-#309
+# 309
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -9939,12 +10559,14 @@ other instances: 15
     - $771
 --------
 
-#310
+# 310
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -9976,12 +10598,14 @@ other instances: 27
     - $809
 --------
 
-#311
+# 311
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -10029,13 +10653,15 @@ other instances: 43
     - $779
 --------
 
-#312
+# 312
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -10051,12 +10677,14 @@ other instances: 11
     - $780
 --------
 
-#313
+# 313
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -10104,12 +10732,14 @@ other instances: 43
     - $792
 --------
 
-#314
+# 314
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -10141,38 +10771,44 @@ other instances: 27
     - $807
 --------
 
-#315
+# 315
 74185 - 3x3 pentomino
 0b10010000111001001 | 0x121c9
 
+```
 ███
   █
   █
+```
 
 other instances: 1
     - $472
 --------
 
-#316
+# 316
 12469 - 2x4 pentomino
 0b11000010110101 | 0x30b5
 
+```
 █ 
 ██
  █
  █
+```
 
 other instances: 1
     - $473
 --------
 
-#317
+# 317
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -10188,14 +10824,16 @@ other instances: 11
     - $737
 --------
 
-#318
+# 318
 12405 - 2x4 pentomino
 0b11000001110101 | 0x3075
 
+```
  █
 ██
  █
  █
+```
 
 other instances: 3
     - $327
@@ -10203,13 +10841,15 @@ other instances: 3
     - $484
 --------
 
-#319
+# 319
 74194 - 3x3 pentomino
 0b10010000111010010 | 0x121d2
 
+```
 ███
  █ 
  █ 
+```
 
 other instances: 3
     - $331
@@ -10217,13 +10857,15 @@ other instances: 3
     - $488
 --------
 
-#320
+# 320
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -10235,13 +10877,15 @@ other instances: 7
     - $665
 --------
 
-#321
+# 321
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -10259,13 +10903,15 @@ other instances: 13
     - $801
 --------
 
-#322
+# 322
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -10281,14 +10927,16 @@ other instances: 11
     - $737
 --------
 
-#323
+# 323
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $174
@@ -10298,13 +10946,15 @@ other instances: 5
     - $738
 --------
 
-#324
+# 324
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -10316,13 +10966,15 @@ other instances: 7
     - $739
 --------
 
-#325
+# 325
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -10350,27 +11002,31 @@ other instances: 23
     - $786
 --------
 
-#326
+# 326
 12501 - 2x4 pentomino
 0b11000011010101 | 0x30d5
 
+```
 ██
  █
  █
  █
+```
 
 other instances: 1
     - $483
 --------
 
-#327
+# 327
 12405 - 2x4 pentomino
 0b11000001110101 | 0x3075
 
+```
  █
 ██
  █
  █
+```
 
 other instances: 3
     - $318
@@ -10378,41 +11034,47 @@ other instances: 3
     - $484
 --------
 
-#328
+# 328
 543 - 1x5 pentomino
 0b1000011111 | 0x21f
 
+```
 █
 █
 █
 █
 █
+```
 
 other instances: 1
     - $485
 --------
 
-#329
+# 329
 12522 - 2x4 pentomino
 0b11000011101010 | 0x30ea
 
+```
 ██
 █ 
 █ 
 █ 
+```
 
 other instances: 1
     - $486
 --------
 
-#330
+# 330
 12474 - 2x4 pentomino
 0b11000010111010 | 0x30ba
 
+```
 █ 
 ██
 █ 
 █ 
+```
 
 other instances: 3
     - $333
@@ -10420,13 +11082,15 @@ other instances: 3
     - $490
 --------
 
-#331
+# 331
 74194 - 3x3 pentomino
 0b10010000111010010 | 0x121d2
 
+```
 ███
  █ 
  █ 
+```
 
 other instances: 3
     - $319
@@ -10434,13 +11098,15 @@ other instances: 3
     - $488
 --------
 
-#332
+# 332
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -10452,14 +11118,16 @@ other instances: 7
     - $739
 --------
 
-#333
+# 333
 12474 - 2x4 pentomino
 0b11000010111010 | 0x30ba
 
+```
 █ 
 ██
 █ 
 █ 
+```
 
 other instances: 3
     - $330
@@ -10467,26 +11135,30 @@ other instances: 3
     - $490
 --------
 
-#334
+# 334
 12410 - 2x4 pentomino
 0b11000001111010 | 0x307a
 
+```
  █
 ██
 █ 
 █ 
+```
 
 other instances: 1
     - $491
 --------
 
-#335
+# 335
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -10502,25 +11174,29 @@ other instances: 11
     - $671
 --------
 
-#336
+# 336
 74212 - 3x3 pentomino
 0b10010000111100100 | 0x121e4
 
+```
 ███
 █  
 █  
+```
 
 other instances: 1
     - $493
 --------
 
-#337
+# 337
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -10532,13 +11208,15 @@ other instances: 7
     - $665
 --------
 
-#338
+# 338
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -10566,14 +11244,16 @@ other instances: 23
     - $786
 --------
 
-#339
+# 339
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $103
@@ -10583,13 +11263,15 @@ other instances: 5
     - $667
 --------
 
-#340
+# 340
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -10605,13 +11287,15 @@ other instances: 11
     - $671
 --------
 
-#341
+# 341
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -10629,12 +11313,14 @@ other instances: 13
     - $772
 --------
 
-#342
+# 342
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -10666,13 +11352,15 @@ other instances: 27
     - $810
 --------
 
-#343
+# 343
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -10692,12 +11380,14 @@ other instances: 15
     - $784
 --------
 
-#344
+# 344
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -10745,13 +11435,15 @@ other instances: 43
     - $785
 --------
 
-#345
+# 345
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -10779,13 +11471,15 @@ other instances: 23
     - $786
 --------
 
-#346
+# 346
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -10805,12 +11499,14 @@ other instances: 15
     - $787
 --------
 
-#347
+# 347
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -10858,12 +11554,14 @@ other instances: 43
     - $800
 --------
 
-#348
+# 348
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -10895,12 +11593,14 @@ other instances: 27
     - $808
 --------
 
-#349
+# 349
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -10920,12 +11620,14 @@ other instances: 15
     - $794
 --------
 
-#350
+# 350
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -10973,13 +11675,15 @@ other instances: 43
     - $785
 --------
 
-#351
+# 351
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -10995,13 +11699,15 @@ other instances: 11
     - $708
 --------
 
-#352
+# 352
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -11013,12 +11719,14 @@ other instances: 7
     - $709
 --------
 
-#353
+# 353
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -11066,12 +11774,14 @@ other instances: 43
     - $792
 --------
 
-#354
+# 354
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -11091,13 +11801,15 @@ other instances: 15
     - $771
 --------
 
-#355
+# 355
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -11109,13 +11821,15 @@ other instances: 7
     - $665
 --------
 
-#356
+# 356
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -11143,14 +11857,16 @@ other instances: 23
     - $786
 --------
 
-#357
+# 357
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $103
@@ -11160,13 +11876,15 @@ other instances: 5
     - $667
 --------
 
-#358
+# 358
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -11182,13 +11900,15 @@ other instances: 11
     - $671
 --------
 
-#359
+# 359
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -11206,13 +11926,15 @@ other instances: 13
     - $772
 --------
 
-#360
+# 360
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -11232,13 +11954,15 @@ other instances: 15
     - $787
 --------
 
-#361
+# 361
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -11254,14 +11978,16 @@ other instances: 11
     - $671
 --------
 
-#362
+# 362
 12382 - 2x4 pentomino
 0b11000001011110 | 0x305e
 
+```
  █
  █
 ██
 █ 
+```
 
 other instances: 3
     - $108
@@ -11269,13 +11995,15 @@ other instances: 3
     - $672
 --------
 
-#363
+# 363
 73972 - 3x3 pentomino
 0b10010000011110100 | 0x120f4
 
+```
  ██
 ██ 
 █  
+```
 
 other instances: 3
     - $109
@@ -11283,13 +12011,15 @@ other instances: 3
     - $673
 --------
 
-#364
+# 364
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -11305,12 +12035,14 @@ other instances: 11
     - $773
 --------
 
-#365
+# 365
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -11358,12 +12090,14 @@ other instances: 43
     - $800
 --------
 
-#366
+# 366
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -11411,13 +12145,15 @@ other instances: 43
     - $792
 --------
 
-#367
+# 367
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -11441,13 +12177,15 @@ other instances: 19
     - $732
 --------
 
-#368
+# 368
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -11471,12 +12209,14 @@ other instances: 19
     - $733
 --------
 
-#369
+# 369
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -11524,12 +12264,14 @@ other instances: 43
     - $785
 --------
 
-#370
+# 370
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -11577,12 +12319,14 @@ other instances: 43
     - $779
 --------
 
-#371
+# 371
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -11614,12 +12358,14 @@ other instances: 27
     - $808
 --------
 
-#372
+# 372
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -11639,13 +12385,15 @@ other instances: 15
     - $771
 --------
 
-#373
+# 373
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -11663,13 +12411,15 @@ other instances: 13
     - $772
 --------
 
-#374
+# 374
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -11685,12 +12435,14 @@ other instances: 11
     - $773
 --------
 
-#375
+# 375
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -11738,13 +12490,15 @@ other instances: 43
     - $785
 --------
 
-#376
+# 376
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -11756,12 +12510,14 @@ other instances: 7
     - $775
 --------
 
-#377
+# 377
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -11781,12 +12537,14 @@ other instances: 15
     - $798
 --------
 
-#378
+# 378
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -11806,12 +12564,14 @@ other instances: 15
     - $806
 --------
 
-#379
+# 379
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -11831,13 +12591,15 @@ other instances: 15
     - $803
 --------
 
-#380
+# 380
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -11849,12 +12611,14 @@ other instances: 7
     - $749
 --------
 
-#381
+# 381
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -11902,13 +12666,15 @@ other instances: 43
     - $779
 --------
 
-#382
+# 382
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -11924,12 +12690,14 @@ other instances: 11
     - $751
 --------
 
-#383
+# 383
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -11977,12 +12745,14 @@ other instances: 43
     - $800
 --------
 
-#384
+# 384
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -12002,12 +12772,14 @@ other instances: 15
     - $764
 --------
 
-#385
+# 385
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -12039,12 +12811,14 @@ other instances: 27
     - $809
 --------
 
-#386
+# 386
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -12092,13 +12866,15 @@ other instances: 43
     - $779
 --------
 
-#387
+# 387
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -12114,12 +12890,14 @@ other instances: 11
     - $780
 --------
 
-#388
+# 388
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -12167,12 +12945,14 @@ other instances: 43
     - $792
 --------
 
-#389
+# 389
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -12204,13 +12984,15 @@ other instances: 27
     - $807
 --------
 
-#390
+# 390
 74131 - 3x3 pentomino
 0b10010000110010011 | 0x12193
 
+```
 ██ 
  █ 
  ██
+```
 
 other instances: 3
     - $71
@@ -12218,13 +13000,15 @@ other instances: 3
     - $635
 --------
 
-#391
+# 391
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -12240,14 +13024,16 @@ other instances: 11
     - $751
 --------
 
-#392
+# 392
 12459 - 2x4 pentomino
 0b11000010101011 | 0x30ab
 
+```
 █ 
 █ 
 █ 
 ██
+```
 
 other instances: 3
     - $73
@@ -12255,13 +13041,15 @@ other instances: 3
     - $637
 --------
 
-#393
+# 393
 3131 - 2x3 pentomino
 0b110000111011 | 0xc3b
 
+```
 ██
 █ 
 ██
+```
 
 other instances: 3
     - $74
@@ -12269,13 +13057,15 @@ other instances: 3
     - $638
 --------
 
-#394
+# 394
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -12299,12 +13089,14 @@ other instances: 19
     - $732
 --------
 
-#395
+# 395
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -12352,12 +13144,14 @@ other instances: 43
     - $800
 --------
 
-#396
+# 396
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -12405,13 +13199,15 @@ other instances: 43
     - $792
 --------
 
-#397
+# 397
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -12435,13 +13231,15 @@ other instances: 19
     - $732
 --------
 
-#398
+# 398
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -12465,12 +13263,14 @@ other instances: 19
     - $733
 --------
 
-#399
+# 399
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -12518,12 +13318,14 @@ other instances: 43
     - $785
 --------
 
-#400
+# 400
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -12571,12 +13373,14 @@ other instances: 43
     - $779
 --------
 
-#401
+# 401
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -12596,12 +13400,14 @@ other instances: 15
     - $764
 --------
 
-#402
+# 402
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -12633,13 +13439,15 @@ other instances: 27
     - $807
 --------
 
-#403
+# 403
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -12651,12 +13459,14 @@ other instances: 7
     - $766
 --------
 
-#404
+# 404
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -12704,12 +13514,14 @@ other instances: 43
     - $779
 --------
 
-#405
+# 405
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -12729,12 +13541,14 @@ other instances: 15
     - $791
 --------
 
-#406
+# 406
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -12754,12 +13568,14 @@ other instances: 15
     - $805
 --------
 
-#407
+# 407
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -12779,13 +13595,15 @@ other instances: 15
     - $812
 --------
 
-#408
+# 408
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -12797,12 +13615,14 @@ other instances: 7
     - $797
 --------
 
-#409
+# 409
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -12822,13 +13642,15 @@ other instances: 15
     - $798
 --------
 
-#410
+# 410
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -12844,12 +13666,14 @@ other instances: 11
     - $799
 --------
 
-#411
+# 411
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -12897,13 +13721,15 @@ other instances: 43
     - $800
 --------
 
-#412
+# 412
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -12921,12 +13747,14 @@ other instances: 13
     - $801
 --------
 
-#413
+# 413
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -12958,12 +13786,14 @@ other instances: 27
     - $810
 --------
 
-#414
+# 414
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -12983,13 +13813,15 @@ other instances: 15
     - $803
 --------
 
-#415
+# 415
 74137 - 3x3 pentomino
 0b10010000110011001 | 0x12199
 
+```
 ██ 
  ██
   █
+```
 
 other instances: 3
     - $161
@@ -12997,13 +13829,15 @@ other instances: 3
     - $725
 --------
 
-#416
+# 416
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -13019,14 +13853,16 @@ other instances: 11
     - $799
 --------
 
-#417
+# 417
 12461 - 2x4 pentomino
 0b11000010101101 | 0x30ad
 
+```
 █ 
 █ 
 ██
  █
+```
 
 other instances: 3
     - $163
@@ -13034,13 +13870,15 @@ other instances: 3
     - $727
 --------
 
-#418
+# 418
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -13056,13 +13894,15 @@ other instances: 11
     - $737
 --------
 
-#419
+# 419
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -13082,12 +13922,14 @@ other instances: 15
     - $784
 --------
 
-#420
+# 420
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -13135,12 +13977,14 @@ other instances: 43
     - $800
 --------
 
-#421
+# 421
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -13188,13 +14032,15 @@ other instances: 43
     - $792
 --------
 
-#422
+# 422
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -13218,13 +14064,15 @@ other instances: 19
     - $732
 --------
 
-#423
+# 423
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -13248,12 +14096,14 @@ other instances: 19
     - $733
 --------
 
-#424
+# 424
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -13301,12 +14151,14 @@ other instances: 43
     - $785
 --------
 
-#425
+# 425
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -13354,13 +14206,15 @@ other instances: 43
     - $779
 --------
 
-#426
+# 426
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -13378,13 +14232,15 @@ other instances: 13
     - $801
 --------
 
-#427
+# 427
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -13400,14 +14256,16 @@ other instances: 11
     - $737
 --------
 
-#428
+# 428
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $174
@@ -13417,13 +14275,15 @@ other instances: 5
     - $738
 --------
 
-#429
+# 429
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -13435,13 +14295,15 @@ other instances: 7
     - $739
 --------
 
-#430
+# 430
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -13469,12 +14331,14 @@ other instances: 23
     - $786
 --------
 
-#431
+# 431
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -13506,13 +14370,15 @@ other instances: 27
     - $810
 --------
 
-#432
+# 432
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -13532,12 +14398,14 @@ other instances: 15
     - $784
 --------
 
-#433
+# 433
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -13585,13 +14453,15 @@ other instances: 43
     - $785
 --------
 
-#434
+# 434
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -13619,13 +14489,15 @@ other instances: 23
     - $786
 --------
 
-#435
+# 435
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -13645,12 +14517,14 @@ other instances: 15
     - $787
 --------
 
-#436
+# 436
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -13698,12 +14572,14 @@ other instances: 43
     - $800
 --------
 
-#437
+# 437
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -13735,12 +14611,14 @@ other instances: 27
     - $808
 --------
 
-#438
+# 438
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -13760,13 +14638,15 @@ other instances: 15
     - $803
 --------
 
-#439
+# 439
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -13778,12 +14658,14 @@ other instances: 7
     - $749
 --------
 
-#440
+# 440
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -13831,13 +14713,15 @@ other instances: 43
     - $779
 --------
 
-#441
+# 441
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -13853,12 +14737,14 @@ other instances: 11
     - $751
 --------
 
-#442
+# 442
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -13906,12 +14792,14 @@ other instances: 43
     - $800
 --------
 
-#443
+# 443
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -13931,12 +14819,14 @@ other instances: 15
     - $764
 --------
 
-#444
+# 444
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -13956,12 +14846,14 @@ other instances: 15
     - $811
 --------
 
-#445
+# 445
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -13981,12 +14873,14 @@ other instances: 15
     - $791
 --------
 
-#446
+# 446
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -14034,13 +14928,15 @@ other instances: 43
     - $792
 --------
 
-#447
+# 447
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -14052,12 +14948,14 @@ other instances: 7
     - $793
 --------
 
-#448
+# 448
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -14077,12 +14975,14 @@ other instances: 15
     - $794
 --------
 
-#449
+# 449
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -14114,12 +15014,14 @@ other instances: 27
     - $809
 --------
 
-#450
+# 450
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -14167,12 +15069,14 @@ other instances: 43
     - $800
 --------
 
-#451
+# 451
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -14220,13 +15124,15 @@ other instances: 43
     - $792
 --------
 
-#452
+# 452
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -14250,13 +15156,15 @@ other instances: 19
     - $732
 --------
 
-#453
+# 453
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -14280,12 +15188,14 @@ other instances: 19
     - $733
 --------
 
-#454
+# 454
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -14333,12 +15243,14 @@ other instances: 43
     - $785
 --------
 
-#455
+# 455
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -14386,13 +15298,15 @@ other instances: 43
     - $779
 --------
 
-#456
+# 456
 3127 - 2x3 pentomino
 0b110000110111 | 0xc37
 
+```
 ██
  █
 ██
+```
 
 other instances: 3
     - $137
@@ -14400,13 +15314,15 @@ other instances: 3
     - $701
 --------
 
-#457
+# 457
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -14430,14 +15346,16 @@ other instances: 19
     - $733
 --------
 
-#458
+# 458
 12375 - 2x4 pentomino
 0b11000001010111 | 0x3057
 
+```
  █
  █
  █
 ██
+```
 
 other instances: 3
     - $139
@@ -14445,13 +15363,15 @@ other instances: 3
     - $703
 --------
 
-#459
+# 459
 73942 - 3x3 pentomino
 0b10010000011010110 | 0x120d6
 
+```
  ██
  █ 
 ██ 
+```
 
 other instances: 3
     - $140
@@ -14459,13 +15379,15 @@ other instances: 3
     - $704
 --------
 
-#460
+# 460
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -14481,12 +15403,14 @@ other instances: 11
     - $708
 --------
 
-#461
+# 461
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -14506,12 +15430,14 @@ other instances: 15
     - $794
 --------
 
-#462
+# 462
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -14559,13 +15485,15 @@ other instances: 43
     - $785
 --------
 
-#463
+# 463
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -14581,13 +15509,15 @@ other instances: 11
     - $708
 --------
 
-#464
+# 464
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -14599,12 +15529,14 @@ other instances: 7
     - $709
 --------
 
-#465
+# 465
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -14652,12 +15584,14 @@ other instances: 43
     - $792
 --------
 
-#466
+# 466
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -14677,12 +15611,14 @@ other instances: 15
     - $771
 --------
 
-#467
+# 467
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -14714,12 +15650,14 @@ other instances: 27
     - $809
 --------
 
-#468
+# 468
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -14767,13 +15705,15 @@ other instances: 43
     - $779
 --------
 
-#469
+# 469
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -14789,12 +15729,14 @@ other instances: 11
     - $780
 --------
 
-#470
+# 470
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -14842,12 +15784,14 @@ other instances: 43
     - $792
 --------
 
-#471
+# 471
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -14879,38 +15823,44 @@ other instances: 27
     - $807
 --------
 
-#472
+# 472
 74185 - 3x3 pentomino
 0b10010000111001001 | 0x121c9
 
+```
 ███
   █
   █
+```
 
 other instances: 1
     - $315
 --------
 
-#473
+# 473
 12469 - 2x4 pentomino
 0b11000010110101 | 0x30b5
 
+```
 █ 
 ██
  █
  █
+```
 
 other instances: 1
     - $316
 --------
 
-#474
+# 474
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -14926,14 +15876,16 @@ other instances: 11
     - $737
 --------
 
-#475
+# 475
 12405 - 2x4 pentomino
 0b11000001110101 | 0x3075
 
+```
  █
 ██
  █
  █
+```
 
 other instances: 3
     - $318
@@ -14941,13 +15893,15 @@ other instances: 3
     - $484
 --------
 
-#476
+# 476
 74194 - 3x3 pentomino
 0b10010000111010010 | 0x121d2
 
+```
 ███
  █ 
  █ 
+```
 
 other instances: 3
     - $319
@@ -14955,13 +15909,15 @@ other instances: 3
     - $488
 --------
 
-#477
+# 477
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -14973,13 +15929,15 @@ other instances: 7
     - $665
 --------
 
-#478
+# 478
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -14997,13 +15955,15 @@ other instances: 13
     - $801
 --------
 
-#479
+# 479
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -15019,14 +15979,16 @@ other instances: 11
     - $737
 --------
 
-#480
+# 480
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $174
@@ -15036,13 +15998,15 @@ other instances: 5
     - $738
 --------
 
-#481
+# 481
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -15054,13 +16018,15 @@ other instances: 7
     - $739
 --------
 
-#482
+# 482
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -15088,27 +16054,31 @@ other instances: 23
     - $786
 --------
 
-#483
+# 483
 12501 - 2x4 pentomino
 0b11000011010101 | 0x30d5
 
+```
 ██
  █
  █
  █
+```
 
 other instances: 1
     - $326
 --------
 
-#484
+# 484
 12405 - 2x4 pentomino
 0b11000001110101 | 0x3075
 
+```
  █
 ██
  █
  █
+```
 
 other instances: 3
     - $318
@@ -15116,41 +16086,47 @@ other instances: 3
     - $475
 --------
 
-#485
+# 485
 543 - 1x5 pentomino
 0b1000011111 | 0x21f
 
+```
 █
 █
 █
 █
 █
+```
 
 other instances: 1
     - $328
 --------
 
-#486
+# 486
 12522 - 2x4 pentomino
 0b11000011101010 | 0x30ea
 
+```
 ██
 █ 
 █ 
 █ 
+```
 
 other instances: 1
     - $329
 --------
 
-#487
+# 487
 12474 - 2x4 pentomino
 0b11000010111010 | 0x30ba
 
+```
 █ 
 ██
 █ 
 █ 
+```
 
 other instances: 3
     - $330
@@ -15158,13 +16134,15 @@ other instances: 3
     - $490
 --------
 
-#488
+# 488
 74194 - 3x3 pentomino
 0b10010000111010010 | 0x121d2
 
+```
 ███
  █ 
  █ 
+```
 
 other instances: 3
     - $319
@@ -15172,13 +16150,15 @@ other instances: 3
     - $476
 --------
 
-#489
+# 489
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -15190,14 +16170,16 @@ other instances: 7
     - $739
 --------
 
-#490
+# 490
 12474 - 2x4 pentomino
 0b11000010111010 | 0x30ba
 
+```
 █ 
 ██
 █ 
 █ 
+```
 
 other instances: 3
     - $330
@@ -15205,26 +16187,30 @@ other instances: 3
     - $487
 --------
 
-#491
+# 491
 12410 - 2x4 pentomino
 0b11000001111010 | 0x307a
 
+```
  █
 ██
 █ 
 █ 
+```
 
 other instances: 1
     - $334
 --------
 
-#492
+# 492
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -15240,25 +16226,29 @@ other instances: 11
     - $671
 --------
 
-#493
+# 493
 74212 - 3x3 pentomino
 0b10010000111100100 | 0x121e4
 
+```
 ███
 █  
 █  
+```
 
 other instances: 1
     - $336
 --------
 
-#494
+# 494
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -15270,13 +16260,15 @@ other instances: 7
     - $665
 --------
 
-#495
+# 495
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -15304,14 +16296,16 @@ other instances: 23
     - $786
 --------
 
-#496
+# 496
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $103
@@ -15321,13 +16315,15 @@ other instances: 5
     - $667
 --------
 
-#497
+# 497
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -15343,13 +16339,15 @@ other instances: 11
     - $671
 --------
 
-#498
+# 498
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -15367,12 +16365,14 @@ other instances: 13
     - $772
 --------
 
-#499
+# 499
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -15404,13 +16404,15 @@ other instances: 27
     - $810
 --------
 
-#500
+# 500
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -15430,12 +16432,14 @@ other instances: 15
     - $784
 --------
 
-#501
+# 501
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -15483,13 +16487,15 @@ other instances: 43
     - $785
 --------
 
-#502
+# 502
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -15517,13 +16523,15 @@ other instances: 23
     - $786
 --------
 
-#503
+# 503
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -15543,12 +16551,14 @@ other instances: 15
     - $787
 --------
 
-#504
+# 504
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -15596,12 +16606,14 @@ other instances: 43
     - $800
 --------
 
-#505
+# 505
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -15633,12 +16645,14 @@ other instances: 27
     - $808
 --------
 
-#506
+# 506
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -15658,12 +16672,14 @@ other instances: 15
     - $794
 --------
 
-#507
+# 507
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -15711,13 +16727,15 @@ other instances: 43
     - $785
 --------
 
-#508
+# 508
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -15733,13 +16751,15 @@ other instances: 11
     - $708
 --------
 
-#509
+# 509
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -15751,12 +16771,14 @@ other instances: 7
     - $709
 --------
 
-#510
+# 510
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -15804,12 +16826,14 @@ other instances: 43
     - $792
 --------
 
-#511
+# 511
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -15829,13 +16853,15 @@ other instances: 15
     - $771
 --------
 
-#512
+# 512
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -15847,13 +16873,15 @@ other instances: 7
     - $665
 --------
 
-#513
+# 513
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -15881,14 +16909,16 @@ other instances: 23
     - $786
 --------
 
-#514
+# 514
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $103
@@ -15898,13 +16928,15 @@ other instances: 5
     - $667
 --------
 
-#515
+# 515
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -15920,13 +16952,15 @@ other instances: 11
     - $671
 --------
 
-#516
+# 516
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -15944,13 +16978,15 @@ other instances: 13
     - $772
 --------
 
-#517
+# 517
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -15970,13 +17006,15 @@ other instances: 15
     - $787
 --------
 
-#518
+# 518
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -15992,14 +17030,16 @@ other instances: 11
     - $671
 --------
 
-#519
+# 519
 12382 - 2x4 pentomino
 0b11000001011110 | 0x305e
 
+```
  █
  █
 ██
 █ 
+```
 
 other instances: 3
     - $108
@@ -16007,13 +17047,15 @@ other instances: 3
     - $672
 --------
 
-#520
+# 520
 73972 - 3x3 pentomino
 0b10010000011110100 | 0x120f4
 
+```
  ██
 ██ 
 █  
+```
 
 other instances: 3
     - $109
@@ -16021,13 +17063,15 @@ other instances: 3
     - $673
 --------
 
-#521
+# 521
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -16043,12 +17087,14 @@ other instances: 11
     - $773
 --------
 
-#522
+# 522
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -16096,12 +17142,14 @@ other instances: 43
     - $800
 --------
 
-#523
+# 523
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -16149,13 +17197,15 @@ other instances: 43
     - $792
 --------
 
-#524
+# 524
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -16179,13 +17229,15 @@ other instances: 19
     - $732
 --------
 
-#525
+# 525
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -16209,12 +17261,14 @@ other instances: 19
     - $733
 --------
 
-#526
+# 526
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -16262,12 +17316,14 @@ other instances: 43
     - $785
 --------
 
-#527
+# 527
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -16315,12 +17371,14 @@ other instances: 43
     - $779
 --------
 
-#528
+# 528
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -16352,12 +17410,14 @@ other instances: 27
     - $808
 --------
 
-#529
+# 529
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -16377,13 +17437,15 @@ other instances: 15
     - $771
 --------
 
-#530
+# 530
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -16401,13 +17463,15 @@ other instances: 13
     - $772
 --------
 
-#531
+# 531
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -16423,12 +17487,14 @@ other instances: 11
     - $773
 --------
 
-#532
+# 532
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -16476,13 +17542,15 @@ other instances: 43
     - $785
 --------
 
-#533
+# 533
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -16494,12 +17562,14 @@ other instances: 7
     - $775
 --------
 
-#534
+# 534
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -16519,12 +17589,14 @@ other instances: 15
     - $798
 --------
 
-#535
+# 535
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -16544,12 +17616,14 @@ other instances: 15
     - $806
 --------
 
-#536
+# 536
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -16569,13 +17643,15 @@ other instances: 15
     - $803
 --------
 
-#537
+# 537
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -16587,12 +17663,14 @@ other instances: 7
     - $749
 --------
 
-#538
+# 538
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -16640,13 +17718,15 @@ other instances: 43
     - $779
 --------
 
-#539
+# 539
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -16662,12 +17742,14 @@ other instances: 11
     - $751
 --------
 
-#540
+# 540
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -16715,12 +17797,14 @@ other instances: 43
     - $800
 --------
 
-#541
+# 541
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -16740,12 +17824,14 @@ other instances: 15
     - $764
 --------
 
-#542
+# 542
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -16777,12 +17863,14 @@ other instances: 27
     - $809
 --------
 
-#543
+# 543
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -16830,13 +17918,15 @@ other instances: 43
     - $779
 --------
 
-#544
+# 544
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -16852,12 +17942,14 @@ other instances: 11
     - $780
 --------
 
-#545
+# 545
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -16905,12 +17997,14 @@ other instances: 43
     - $792
 --------
 
-#546
+# 546
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -16942,13 +18036,15 @@ other instances: 27
     - $807
 --------
 
-#547
+# 547
 74131 - 3x3 pentomino
 0b10010000110010011 | 0x12193
 
+```
 ██ 
  █ 
  ██
+```
 
 other instances: 3
     - $71
@@ -16956,13 +18052,15 @@ other instances: 3
     - $635
 --------
 
-#548
+# 548
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -16978,14 +18076,16 @@ other instances: 11
     - $751
 --------
 
-#549
+# 549
 12459 - 2x4 pentomino
 0b11000010101011 | 0x30ab
 
+```
 █ 
 █ 
 █ 
 ██
+```
 
 other instances: 3
     - $73
@@ -16993,13 +18093,15 @@ other instances: 3
     - $637
 --------
 
-#550
+# 550
 3131 - 2x3 pentomino
 0b110000111011 | 0xc3b
 
+```
 ██
 █ 
 ██
+```
 
 other instances: 3
     - $74
@@ -17007,13 +18109,15 @@ other instances: 3
     - $638
 --------
 
-#551
+# 551
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -17037,12 +18141,14 @@ other instances: 19
     - $732
 --------
 
-#552
+# 552
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -17090,12 +18196,14 @@ other instances: 43
     - $800
 --------
 
-#553
+# 553
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -17143,13 +18251,15 @@ other instances: 43
     - $792
 --------
 
-#554
+# 554
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -17173,13 +18283,15 @@ other instances: 19
     - $732
 --------
 
-#555
+# 555
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -17203,12 +18315,14 @@ other instances: 19
     - $733
 --------
 
-#556
+# 556
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -17256,12 +18370,14 @@ other instances: 43
     - $785
 --------
 
-#557
+# 557
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -17309,12 +18425,14 @@ other instances: 43
     - $779
 --------
 
-#558
+# 558
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -17334,12 +18452,14 @@ other instances: 15
     - $764
 --------
 
-#559
+# 559
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -17371,13 +18491,15 @@ other instances: 27
     - $807
 --------
 
-#560
+# 560
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -17389,12 +18511,14 @@ other instances: 7
     - $766
 --------
 
-#561
+# 561
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -17442,12 +18566,14 @@ other instances: 43
     - $779
 --------
 
-#562
+# 562
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -17467,12 +18593,14 @@ other instances: 15
     - $791
 --------
 
-#563
+# 563
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -17492,11 +18620,13 @@ other instances: 15
     - $805
 --------
 
-#564
+# 564
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -17516,12 +18646,14 @@ other instances: 15
     - $813
 --------
 
-#565
+# 565
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -17541,12 +18673,14 @@ other instances: 15
     - $805
 --------
 
-#566
+# 566
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -17566,12 +18700,14 @@ other instances: 15
     - $806
 --------
 
-#567
+# 567
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -17603,12 +18739,14 @@ other instances: 27
     - $807
 --------
 
-#568
+# 568
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -17640,12 +18778,14 @@ other instances: 27
     - $808
 --------
 
-#569
+# 569
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -17677,12 +18817,14 @@ other instances: 27
     - $809
 --------
 
-#570
+# 570
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -17714,12 +18856,14 @@ other instances: 27
     - $810
 --------
 
-#571
+# 571
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -17739,12 +18883,14 @@ other instances: 15
     - $811
 --------
 
-#572
+# 572
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -17764,11 +18910,13 @@ other instances: 15
     - $812
 --------
 
-#573
+# 573
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -17788,12 +18936,14 @@ other instances: 15
     - $813
 --------
 
-#574
+# 574
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -17813,12 +18963,14 @@ other instances: 15
     - $764
 --------
 
-#575
+# 575
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -17850,13 +19002,15 @@ other instances: 27
     - $807
 --------
 
-#576
+# 576
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -17868,12 +19022,14 @@ other instances: 7
     - $766
 --------
 
-#577
+# 577
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -17921,12 +19077,14 @@ other instances: 43
     - $779
 --------
 
-#578
+# 578
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -17946,12 +19104,14 @@ other instances: 15
     - $791
 --------
 
-#579
+# 579
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -17971,12 +19131,14 @@ other instances: 15
     - $805
 --------
 
-#580
+# 580
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -18008,12 +19170,14 @@ other instances: 27
     - $808
 --------
 
-#581
+# 581
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -18033,13 +19197,15 @@ other instances: 15
     - $771
 --------
 
-#582
+# 582
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -18057,13 +19223,15 @@ other instances: 13
     - $772
 --------
 
-#583
+# 583
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -18079,12 +19247,14 @@ other instances: 11
     - $773
 --------
 
-#584
+# 584
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -18132,13 +19302,15 @@ other instances: 43
     - $785
 --------
 
-#585
+# 585
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -18150,12 +19322,14 @@ other instances: 7
     - $775
 --------
 
-#586
+# 586
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -18175,12 +19349,14 @@ other instances: 15
     - $798
 --------
 
-#587
+# 587
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -18200,12 +19376,14 @@ other instances: 15
     - $806
 --------
 
-#588
+# 588
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -18237,12 +19415,14 @@ other instances: 27
     - $809
 --------
 
-#589
+# 589
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -18290,13 +19470,15 @@ other instances: 43
     - $779
 --------
 
-#590
+# 590
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -18312,12 +19494,14 @@ other instances: 11
     - $780
 --------
 
-#591
+# 591
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -18365,12 +19549,14 @@ other instances: 43
     - $792
 --------
 
-#592
+# 592
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -18402,12 +19588,14 @@ other instances: 27
     - $807
 --------
 
-#593
+# 593
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -18439,13 +19627,15 @@ other instances: 27
     - $810
 --------
 
-#594
+# 594
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -18465,12 +19655,14 @@ other instances: 15
     - $784
 --------
 
-#595
+# 595
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -18518,13 +19710,15 @@ other instances: 43
     - $785
 --------
 
-#596
+# 596
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -18552,13 +19746,15 @@ other instances: 23
     - $786
 --------
 
-#597
+# 597
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -18578,12 +19774,14 @@ other instances: 15
     - $787
 --------
 
-#598
+# 598
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -18631,12 +19829,14 @@ other instances: 43
     - $800
 --------
 
-#599
+# 599
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -18668,12 +19868,14 @@ other instances: 27
     - $808
 --------
 
-#600
+# 600
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -18693,12 +19895,14 @@ other instances: 15
     - $811
 --------
 
-#601
+# 601
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -18718,12 +19922,14 @@ other instances: 15
     - $791
 --------
 
-#602
+# 602
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -18771,13 +19977,15 @@ other instances: 43
     - $792
 --------
 
-#603
+# 603
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -18789,12 +19997,14 @@ other instances: 7
     - $793
 --------
 
-#604
+# 604
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -18814,12 +20024,14 @@ other instances: 15
     - $794
 --------
 
-#605
+# 605
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -18851,12 +20063,14 @@ other instances: 27
     - $809
 --------
 
-#606
+# 606
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -18876,13 +20090,15 @@ other instances: 15
     - $812
 --------
 
-#607
+# 607
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -18894,12 +20110,14 @@ other instances: 7
     - $797
 --------
 
-#608
+# 608
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -18919,13 +20137,15 @@ other instances: 15
     - $798
 --------
 
-#609
+# 609
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -18941,12 +20161,14 @@ other instances: 11
     - $799
 --------
 
-#610
+# 610
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -18994,13 +20216,15 @@ other instances: 43
     - $800
 --------
 
-#611
+# 611
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -19018,12 +20242,14 @@ other instances: 13
     - $801
 --------
 
-#612
+# 612
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -19055,12 +20281,14 @@ other instances: 27
     - $810
 --------
 
-#613
+# 613
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -19080,11 +20308,13 @@ other instances: 15
     - $803
 --------
 
-#614
+# 614
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -19104,12 +20334,14 @@ other instances: 15
     - $813
 --------
 
-#615
+# 615
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -19129,12 +20361,14 @@ other instances: 15
     - $805
 --------
 
-#616
+# 616
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -19154,12 +20388,14 @@ other instances: 15
     - $806
 --------
 
-#617
+# 617
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -19191,12 +20427,14 @@ other instances: 27
     - $807
 --------
 
-#618
+# 618
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -19228,12 +20466,14 @@ other instances: 27
     - $808
 --------
 
-#619
+# 619
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -19265,12 +20505,14 @@ other instances: 27
     - $809
 --------
 
-#620
+# 620
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -19302,12 +20544,14 @@ other instances: 27
     - $810
 --------
 
-#621
+# 621
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -19327,12 +20571,14 @@ other instances: 15
     - $811
 --------
 
-#622
+# 622
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -19352,11 +20598,13 @@ other instances: 15
     - $812
 --------
 
-#623
+# 623
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -19376,12 +20624,14 @@ other instances: 15
     - $813
 --------
 
-#624
+# 624
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -19401,13 +20651,15 @@ other instances: 15
     - $803
 --------
 
-#625
+# 625
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -19419,12 +20671,14 @@ other instances: 7
     - $749
 --------
 
-#626
+# 626
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -19472,13 +20726,15 @@ other instances: 43
     - $779
 --------
 
-#627
+# 627
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -19494,12 +20750,14 @@ other instances: 11
     - $751
 --------
 
-#628
+# 628
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -19547,12 +20805,14 @@ other instances: 43
     - $800
 --------
 
-#629
+# 629
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -19572,12 +20832,14 @@ other instances: 15
     - $764
 --------
 
-#630
+# 630
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -19609,12 +20871,14 @@ other instances: 27
     - $809
 --------
 
-#631
+# 631
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -19662,13 +20926,15 @@ other instances: 43
     - $779
 --------
 
-#632
+# 632
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -19684,12 +20950,14 @@ other instances: 11
     - $780
 --------
 
-#633
+# 633
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -19737,12 +21005,14 @@ other instances: 43
     - $792
 --------
 
-#634
+# 634
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -19774,13 +21044,15 @@ other instances: 27
     - $807
 --------
 
-#635
+# 635
 74131 - 3x3 pentomino
 0b10010000110010011 | 0x12193
 
+```
 ██ 
  █ 
  ██
+```
 
 other instances: 3
     - $71
@@ -19788,13 +21060,15 @@ other instances: 3
     - $547
 --------
 
-#636
+# 636
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -19810,14 +21084,16 @@ other instances: 11
     - $751
 --------
 
-#637
+# 637
 12459 - 2x4 pentomino
 0b11000010101011 | 0x30ab
 
+```
 █ 
 █ 
 █ 
 ██
+```
 
 other instances: 3
     - $73
@@ -19825,13 +21101,15 @@ other instances: 3
     - $549
 --------
 
-#638
+# 638
 3131 - 2x3 pentomino
 0b110000111011 | 0xc3b
 
+```
 ██
 █ 
 ██
+```
 
 other instances: 3
     - $74
@@ -19839,13 +21117,15 @@ other instances: 3
     - $550
 --------
 
-#639
+# 639
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -19869,12 +21149,14 @@ other instances: 19
     - $732
 --------
 
-#640
+# 640
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -19922,12 +21204,14 @@ other instances: 43
     - $800
 --------
 
-#641
+# 641
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -19975,13 +21259,15 @@ other instances: 43
     - $792
 --------
 
-#642
+# 642
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -20005,13 +21291,15 @@ other instances: 19
     - $732
 --------
 
-#643
+# 643
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -20035,12 +21323,14 @@ other instances: 19
     - $733
 --------
 
-#644
+# 644
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -20088,12 +21378,14 @@ other instances: 43
     - $785
 --------
 
-#645
+# 645
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -20141,12 +21433,14 @@ other instances: 43
     - $779
 --------
 
-#646
+# 646
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -20166,12 +21460,14 @@ other instances: 15
     - $764
 --------
 
-#647
+# 647
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -20203,13 +21499,15 @@ other instances: 27
     - $807
 --------
 
-#648
+# 648
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -20221,12 +21519,14 @@ other instances: 7
     - $766
 --------
 
-#649
+# 649
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -20274,12 +21574,14 @@ other instances: 43
     - $779
 --------
 
-#650
+# 650
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -20299,12 +21601,14 @@ other instances: 15
     - $791
 --------
 
-#651
+# 651
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -20324,12 +21628,14 @@ other instances: 15
     - $805
 --------
 
-#652
+# 652
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -20361,13 +21667,15 @@ other instances: 27
     - $810
 --------
 
-#653
+# 653
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -20387,12 +21695,14 @@ other instances: 15
     - $784
 --------
 
-#654
+# 654
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -20440,13 +21750,15 @@ other instances: 43
     - $785
 --------
 
-#655
+# 655
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -20474,13 +21786,15 @@ other instances: 23
     - $786
 --------
 
-#656
+# 656
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -20500,12 +21814,14 @@ other instances: 15
     - $787
 --------
 
-#657
+# 657
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -20553,12 +21869,14 @@ other instances: 43
     - $800
 --------
 
-#658
+# 658
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -20590,12 +21908,14 @@ other instances: 27
     - $808
 --------
 
-#659
+# 659
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -20615,12 +21935,14 @@ other instances: 15
     - $794
 --------
 
-#660
+# 660
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -20668,13 +21990,15 @@ other instances: 43
     - $785
 --------
 
-#661
+# 661
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -20690,13 +22014,15 @@ other instances: 11
     - $708
 --------
 
-#662
+# 662
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -20708,12 +22034,14 @@ other instances: 7
     - $709
 --------
 
-#663
+# 663
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -20761,12 +22089,14 @@ other instances: 43
     - $792
 --------
 
-#664
+# 664
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -20786,13 +22116,15 @@ other instances: 15
     - $771
 --------
 
-#665
+# 665
 74138 - 3x3 pentomino
 0b10010000110011010 | 0x1219a
 
+```
 ██ 
  ██
  █ 
+```
 
 other instances: 7
     - $101
@@ -20804,13 +22136,15 @@ other instances: 7
     - $512
 --------
 
-#666
+# 666
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -20838,14 +22172,16 @@ other instances: 23
     - $786
 --------
 
-#667
+# 667
 12462 - 2x4 pentomino
 0b11000010101110 | 0x30ae
 
+```
 █ 
 █ 
 ██
 █ 
+```
 
 other instances: 5
     - $103
@@ -20855,13 +22191,15 @@ other instances: 5
     - $514
 --------
 
-#668
+# 668
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -20877,13 +22215,15 @@ other instances: 11
     - $671
 --------
 
-#669
+# 669
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -20901,13 +22241,15 @@ other instances: 13
     - $772
 --------
 
-#670
+# 670
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -20927,13 +22269,15 @@ other instances: 15
     - $787
 --------
 
-#671
+# 671
 3134 - 2x3 pentomino
 0b110000111110 | 0xc3e
 
+```
 ██
 ██
 █ 
+```
 
 other instances: 11
     - $104
@@ -20949,14 +22293,16 @@ other instances: 11
     - $668
 --------
 
-#672
+# 672
 12382 - 2x4 pentomino
 0b11000001011110 | 0x305e
 
+```
  █
  █
 ██
 █ 
+```
 
 other instances: 3
     - $108
@@ -20964,13 +22310,15 @@ other instances: 3
     - $519
 --------
 
-#673
+# 673
 73972 - 3x3 pentomino
 0b10010000011110100 | 0x120f4
 
+```
  ██
 ██ 
 █  
+```
 
 other instances: 3
     - $109
@@ -20978,13 +22326,15 @@ other instances: 3
     - $520
 --------
 
-#674
+# 674
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -21000,12 +22350,14 @@ other instances: 11
     - $773
 --------
 
-#675
+# 675
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -21053,12 +22405,14 @@ other instances: 43
     - $800
 --------
 
-#676
+# 676
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -21106,13 +22460,15 @@ other instances: 43
     - $792
 --------
 
-#677
+# 677
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -21136,13 +22492,15 @@ other instances: 19
     - $732
 --------
 
-#678
+# 678
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -21166,12 +22524,14 @@ other instances: 19
     - $733
 --------
 
-#679
+# 679
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -21219,12 +22579,14 @@ other instances: 43
     - $785
 --------
 
-#680
+# 680
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -21272,12 +22634,14 @@ other instances: 43
     - $779
 --------
 
-#681
+# 681
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -21309,12 +22673,14 @@ other instances: 27
     - $808
 --------
 
-#682
+# 682
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -21334,13 +22700,15 @@ other instances: 15
     - $771
 --------
 
-#683
+# 683
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -21358,13 +22726,15 @@ other instances: 13
     - $772
 --------
 
-#684
+# 684
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -21380,12 +22750,14 @@ other instances: 11
     - $773
 --------
 
-#685
+# 685
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -21433,13 +22805,15 @@ other instances: 43
     - $785
 --------
 
-#686
+# 686
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -21451,12 +22825,14 @@ other instances: 7
     - $775
 --------
 
-#687
+# 687
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -21476,12 +22852,14 @@ other instances: 15
     - $798
 --------
 
-#688
+# 688
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -21501,12 +22879,14 @@ other instances: 15
     - $806
 --------
 
-#689
+# 689
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -21526,12 +22906,14 @@ other instances: 15
     - $811
 --------
 
-#690
+# 690
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -21551,12 +22933,14 @@ other instances: 15
     - $791
 --------
 
-#691
+# 691
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -21604,13 +22988,15 @@ other instances: 43
     - $792
 --------
 
-#692
+# 692
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -21622,12 +23008,14 @@ other instances: 7
     - $793
 --------
 
-#693
+# 693
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -21647,12 +23035,14 @@ other instances: 15
     - $794
 --------
 
-#694
+# 694
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -21684,12 +23074,14 @@ other instances: 27
     - $809
 --------
 
-#695
+# 695
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -21737,12 +23129,14 @@ other instances: 43
     - $800
 --------
 
-#696
+# 696
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -21790,13 +23184,15 @@ other instances: 43
     - $792
 --------
 
-#697
+# 697
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -21820,13 +23216,15 @@ other instances: 19
     - $732
 --------
 
-#698
+# 698
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -21850,12 +23248,14 @@ other instances: 19
     - $733
 --------
 
-#699
+# 699
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -21903,12 +23303,14 @@ other instances: 43
     - $785
 --------
 
-#700
+# 700
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -21956,13 +23358,15 @@ other instances: 43
     - $779
 --------
 
-#701
+# 701
 3127 - 2x3 pentomino
 0b110000110111 | 0xc37
 
+```
 ██
  █
 ██
+```
 
 other instances: 3
     - $137
@@ -21970,13 +23374,15 @@ other instances: 3
     - $456
 --------
 
-#702
+# 702
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -22000,14 +23406,16 @@ other instances: 19
     - $733
 --------
 
-#703
+# 703
 12375 - 2x4 pentomino
 0b11000001010111 | 0x3057
 
+```
  █
  █
  █
 ██
+```
 
 other instances: 3
     - $139
@@ -22015,13 +23423,15 @@ other instances: 3
     - $458
 --------
 
-#704
+# 704
 73942 - 3x3 pentomino
 0b10010000011010110 | 0x120d6
 
+```
  ██
  █ 
 ██ 
+```
 
 other instances: 3
     - $140
@@ -22029,13 +23439,15 @@ other instances: 3
     - $459
 --------
 
-#705
+# 705
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -22051,12 +23463,14 @@ other instances: 11
     - $708
 --------
 
-#706
+# 706
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -22076,12 +23490,14 @@ other instances: 15
     - $794
 --------
 
-#707
+# 707
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -22129,13 +23545,15 @@ other instances: 43
     - $785
 --------
 
-#708
+# 708
 73886 - 3x3 pentomino
 0b10010000010011110 | 0x1209e
 
+```
  █ 
  ██
 ██ 
+```
 
 other instances: 11
     - $97
@@ -22151,13 +23569,15 @@ other instances: 11
     - $705
 --------
 
-#709
+# 709
 73822 - 3x3 pentomino
 0b10010000001011110 | 0x1205e
 
+```
   █
  ██
 ██ 
+```
 
 other instances: 7
     - $98
@@ -22169,12 +23589,14 @@ other instances: 7
     - $662
 --------
 
-#710
+# 710
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -22222,12 +23644,14 @@ other instances: 43
     - $792
 --------
 
-#711
+# 711
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -22247,12 +23671,14 @@ other instances: 15
     - $771
 --------
 
-#712
+# 712
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -22284,12 +23710,14 @@ other instances: 27
     - $809
 --------
 
-#713
+# 713
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -22337,13 +23765,15 @@ other instances: 43
     - $779
 --------
 
-#714
+# 714
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -22359,12 +23789,14 @@ other instances: 11
     - $780
 --------
 
-#715
+# 715
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -22412,12 +23844,14 @@ other instances: 43
     - $792
 --------
 
-#716
+# 716
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -22449,12 +23883,14 @@ other instances: 27
     - $807
 --------
 
-#717
+# 717
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -22474,13 +23910,15 @@ other instances: 15
     - $812
 --------
 
-#718
+# 718
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -22492,12 +23930,14 @@ other instances: 7
     - $797
 --------
 
-#719
+# 719
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -22517,13 +23957,15 @@ other instances: 15
     - $798
 --------
 
-#720
+# 720
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -22539,12 +23981,14 @@ other instances: 11
     - $799
 --------
 
-#721
+# 721
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -22592,13 +24036,15 @@ other instances: 43
     - $800
 --------
 
-#722
+# 722
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -22616,12 +24062,14 @@ other instances: 13
     - $801
 --------
 
-#723
+# 723
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -22653,12 +24101,14 @@ other instances: 27
     - $810
 --------
 
-#724
+# 724
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -22678,13 +24128,15 @@ other instances: 15
     - $803
 --------
 
-#725
+# 725
 74137 - 3x3 pentomino
 0b10010000110011001 | 0x12199
 
+```
 ██ 
  ██
   █
+```
 
 other instances: 3
     - $161
@@ -22692,13 +24144,15 @@ other instances: 3
     - $415
 --------
 
-#726
+# 726
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -22714,14 +24168,16 @@ other instances: 11
     - $799
 --------
 
-#727
+# 727
 12461 - 2x4 pentomino
 0b11000010101101 | 0x30ad
 
+```
 █ 
 █ 
 ██
  █
+```
 
 other instances: 3
     - $163
@@ -22729,13 +24185,15 @@ other instances: 3
     - $417
 --------
 
-#728
+# 728
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -22751,13 +24209,15 @@ other instances: 11
     - $737
 --------
 
-#729
+# 729
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -22777,12 +24237,14 @@ other instances: 15
     - $784
 --------
 
-#730
+# 730
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -22830,12 +24292,14 @@ other instances: 43
     - $800
 --------
 
-#731
+# 731
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -22883,13 +24347,15 @@ other instances: 43
     - $792
 --------
 
-#732
+# 732
 3119 - 2x3 pentomino
 0b110000101111 | 0xc2f
 
+```
 █ 
 ██
 ██
+```
 
 other instances: 19
     - $75
@@ -22913,13 +24379,15 @@ other instances: 19
     - $697
 --------
 
-#733
+# 733
 3103 - 2x3 pentomino
 0b110000011111 | 0xc1f
 
+```
  █
 ██
 ██
+```
 
 other instances: 19
     - $79
@@ -22943,12 +24411,14 @@ other instances: 19
     - $702
 --------
 
-#734
+# 734
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -22996,12 +24466,14 @@ other instances: 43
     - $785
 --------
 
-#735
+# 735
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -23049,13 +24521,15 @@ other instances: 43
     - $779
 --------
 
-#736
+# 736
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -23073,13 +24547,15 @@ other instances: 13
     - $801
 --------
 
-#737
+# 737
 3133 - 2x3 pentomino
 0b110000111101 | 0xc3d
 
+```
 ██
 ██
  █
+```
 
 other instances: 11
     - $164
@@ -23095,14 +24571,16 @@ other instances: 11
     - $728
 --------
 
-#738
+# 738
 12381 - 2x4 pentomino
 0b11000001011101 | 0x305d
 
+```
  █
  █
 ██
  █
+```
 
 other instances: 5
     - $174
@@ -23112,13 +24590,15 @@ other instances: 5
     - $480
 --------
 
-#739
+# 739
 73970 - 3x3 pentomino
 0b10010000011110010 | 0x120f2
 
+```
  ██
 ██ 
  █ 
+```
 
 other instances: 7
     - $175
@@ -23130,13 +24610,15 @@ other instances: 7
     - $489
 --------
 
-#740
+# 740
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -23164,12 +24646,14 @@ other instances: 23
     - $786
 --------
 
-#741
+# 741
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -23201,13 +24685,15 @@ other instances: 27
     - $810
 --------
 
-#742
+# 742
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -23227,12 +24713,14 @@ other instances: 15
     - $784
 --------
 
-#743
+# 743
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -23280,13 +24768,15 @@ other instances: 43
     - $785
 --------
 
-#744
+# 744
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -23314,13 +24804,15 @@ other instances: 23
     - $786
 --------
 
-#745
+# 745
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -23340,12 +24832,14 @@ other instances: 15
     - $787
 --------
 
-#746
+# 746
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -23393,12 +24887,14 @@ other instances: 43
     - $800
 --------
 
-#747
+# 747
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -23430,12 +24926,14 @@ other instances: 27
     - $808
 --------
 
-#748
+# 748
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -23455,13 +24953,15 @@ other instances: 15
     - $803
 --------
 
-#749
+# 749
 74035 - 3x3 pentomino
 0b10010000100110011 | 0x12133
 
+```
 █  
 ██ 
  ██
+```
 
 other instances: 7
     - $61
@@ -23473,12 +24973,14 @@ other instances: 7
     - $625
 --------
 
-#750
+# 750
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -23526,13 +25028,15 @@ other instances: 43
     - $779
 --------
 
-#751
+# 751
 73907 - 3x3 pentomino
 0b10010000010110011 | 0x120b3
 
+```
  █ 
 ██ 
  ██
+```
 
 other instances: 11
     - $63
@@ -23548,12 +25052,14 @@ other instances: 11
     - $636
 --------
 
-#752
+# 752
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -23601,12 +25107,14 @@ other instances: 43
     - $800
 --------
 
-#753
+# 753
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -23626,11 +25134,13 @@ other instances: 15
     - $764
 --------
 
-#754
+# 754
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -23650,12 +25160,14 @@ other instances: 15
     - $813
 --------
 
-#755
+# 755
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -23675,12 +25187,14 @@ other instances: 15
     - $805
 --------
 
-#756
+# 756
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -23700,12 +25214,14 @@ other instances: 15
     - $806
 --------
 
-#757
+# 757
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -23737,12 +25253,14 @@ other instances: 27
     - $807
 --------
 
-#758
+# 758
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -23774,12 +25292,14 @@ other instances: 27
     - $808
 --------
 
-#759
+# 759
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -23811,12 +25331,14 @@ other instances: 27
     - $809
 --------
 
-#760
+# 760
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -23848,12 +25370,14 @@ other instances: 27
     - $810
 --------
 
-#761
+# 761
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -23873,12 +25397,14 @@ other instances: 15
     - $811
 --------
 
-#762
+# 762
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -23898,11 +25424,13 @@ other instances: 15
     - $812
 --------
 
-#763
+# 763
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -23922,12 +25450,14 @@ other instances: 15
     - $813
 --------
 
-#764
+# 764
 110791 - 4x2 pentomino
 0b11011000011000111 | 0x1b0c7
 
+```
 ██  
  ███
+```
 
 other instances: 15
     - $10
@@ -23947,12 +25477,14 @@ other instances: 15
     - $753
 --------
 
-#765
+# 765
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -23984,13 +25516,15 @@ other instances: 27
     - $807
 --------
 
-#766
+# 766
 74023 - 3x3 pentomino
 0b10010000100100111 | 0x12127
 
+```
 █  
 █  
 ███
+```
 
 other instances: 7
     - $12
@@ -24002,12 +25536,14 @@ other instances: 7
     - $648
 --------
 
-#767
+# 767
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -24055,12 +25591,14 @@ other instances: 43
     - $779
 --------
 
-#768
+# 768
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -24080,12 +25618,14 @@ other instances: 15
     - $791
 --------
 
-#769
+# 769
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -24105,12 +25645,14 @@ other instances: 15
     - $805
 --------
 
-#770
+# 770
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -24142,12 +25684,14 @@ other instances: 27
     - $808
 --------
 
-#771
+# 771
 110716 - 4x2 pentomino
 0b11011000001111100 | 0x1b07c
 
+```
  ███
 ██  
+```
 
 other instances: 15
     - $17
@@ -24167,13 +25711,15 @@ other instances: 15
     - $711
 --------
 
-#772
+# 772
 74044 - 3x3 pentomino
 0b10010000100111100 | 0x1213c
 
+```
 █  
 ███
 █  
+```
 
 other instances: 13
     - $18
@@ -24191,13 +25737,15 @@ other instances: 13
     - $683
 --------
 
-#773
+# 773
 73916 - 3x3 pentomino
 0b10010000010111100 | 0x120bc
 
+```
  █ 
 ███
 █  
+```
 
 other instances: 11
     - $19
@@ -24213,12 +25761,14 @@ other instances: 11
     - $684
 --------
 
-#774
+# 774
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -24266,13 +25816,15 @@ other instances: 43
     - $785
 --------
 
-#775
+# 775
 73852 - 3x3 pentomino
 0b10010000001111100 | 0x1207c
 
+```
   █
 ███
 █  
+```
 
 other instances: 7
     - $21
@@ -24284,12 +25836,14 @@ other instances: 7
     - $686
 --------
 
-#776
+# 776
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -24309,12 +25863,14 @@ other instances: 15
     - $798
 --------
 
-#777
+# 777
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -24334,12 +25890,14 @@ other instances: 15
     - $806
 --------
 
-#778
+# 778
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -24371,12 +25929,14 @@ other instances: 27
     - $809
 --------
 
-#779
+# 779
 9271 - 3x2 pentomino
 0b10010000110111 | 0x2437
 
+```
 ██ 
 ███
+```
 
 other instances: 43
     - $13
@@ -24424,13 +25984,15 @@ other instances: 43
     - $767
 --------
 
-#780
+# 780
 73879 - 3x3 pentomino
 0b10010000010010111 | 0x12097
 
+```
  █ 
  █ 
 ███
+```
 
 other instances: 11
     - $26
@@ -24446,12 +26008,14 @@ other instances: 11
     - $714
 --------
 
-#781
+# 781
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -24499,12 +26063,14 @@ other instances: 43
     - $792
 --------
 
-#782
+# 782
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -24536,12 +26102,14 @@ other instances: 27
     - $807
 --------
 
-#783
+# 783
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -24573,13 +26141,15 @@ other instances: 27
     - $810
 --------
 
-#784
+# 784
 74042 - 3x3 pentomino
 0b10010000100111010 | 0x1213a
 
+```
 █  
 ███
  █ 
+```
 
 other instances: 15
     - $30
@@ -24599,12 +26169,14 @@ other instances: 15
     - $742
 --------
 
-#785
+# 785
 9278 - 3x2 pentomino
 0b10010000111110 | 0x243e
 
+```
 ███
 ██ 
+```
 
 other instances: 43
     - $20
@@ -24652,13 +26224,15 @@ other instances: 43
     - $774
 --------
 
-#786
+# 786
 73914 - 3x3 pentomino
 0b10010000010111010 | 0x120ba
 
+```
  █ 
 ███
  █ 
+```
 
 other instances: 23
     - $32
@@ -24686,13 +26260,15 @@ other instances: 23
     - $744
 --------
 
-#787
+# 787
 73850 - 3x3 pentomino
 0b10010000001111010 | 0x1207a
 
+```
   █
 ███
  █ 
+```
 
 other instances: 15
     - $33
@@ -24712,12 +26288,14 @@ other instances: 15
     - $745
 --------
 
-#788
+# 788
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -24765,12 +26343,14 @@ other instances: 43
     - $800
 --------
 
-#789
+# 789
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -24802,12 +26382,14 @@ other instances: 27
     - $808
 --------
 
-#790
+# 790
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -24827,12 +26409,14 @@ other instances: 15
     - $811
 --------
 
-#791
+# 791
 9263 - 3x2 pentomino
 0b10010000101111 | 0x242f
 
+```
 █ █
 ███
+```
 
 other instances: 15
     - $14
@@ -24852,12 +26436,14 @@ other instances: 15
     - $768
 --------
 
-#792
+# 792
 9247 - 3x2 pentomino
 0b10010000011111 | 0x241f
 
+```
  ██
 ███
+```
 
 other instances: 43
     - $27
@@ -24905,13 +26491,15 @@ other instances: 43
     - $781
 --------
 
-#793
+# 793
 73807 - 3x3 pentomino
 0b10010000001001111 | 0x1204f
 
+```
   █
   █
 ███
+```
 
 other instances: 7
     - $39
@@ -24923,12 +26511,14 @@ other instances: 7
     - $692
 --------
 
-#794
+# 794
 110654 - 4x2 pentomino
 0b11011000000111110 | 0x1b03e
 
+```
   ██
 ███ 
+```
 
 other instances: 15
     - $40
@@ -24948,12 +26538,14 @@ other instances: 15
     - $706
 --------
 
-#795
+# 795
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -24985,12 +26577,14 @@ other instances: 27
     - $809
 --------
 
-#796
+# 796
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -25010,13 +26604,15 @@ other instances: 15
     - $812
 --------
 
-#797
+# 797
 74041 - 3x3 pentomino
 0b10010000100111001 | 0x12139
 
+```
 █  
 ███
   █
+```
 
 other instances: 7
     - $43
@@ -25028,12 +26624,14 @@ other instances: 7
     - $718
 --------
 
-#798
+# 798
 9277 - 3x2 pentomino
 0b10010000111101 | 0x243d
 
+```
 ███
 █ █
+```
 
 other instances: 15
     - $22
@@ -25053,13 +26651,15 @@ other instances: 15
     - $776
 --------
 
-#799
+# 799
 73913 - 3x3 pentomino
 0b10010000010111001 | 0x120b9
 
+```
  █ 
 ███
   █
+```
 
 other instances: 11
     - $45
@@ -25075,12 +26675,14 @@ other instances: 11
     - $726
 --------
 
-#800
+# 800
 9275 - 3x2 pentomino
 0b10010000111011 | 0x243b
 
+```
 ███
  ██
+```
 
 other instances: 43
     - $34
@@ -25128,13 +26730,15 @@ other instances: 43
     - $788
 --------
 
-#801
+# 801
 73849 - 3x3 pentomino
 0b10010000001111001 | 0x12079
 
+```
   █
 ███
   █
+```
 
 other instances: 13
     - $47
@@ -25152,12 +26756,14 @@ other instances: 13
     - $736
 --------
 
-#802
+# 802
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -25189,12 +26795,14 @@ other instances: 27
     - $810
 --------
 
-#803
+# 803
 110819 - 4x2 pentomino
 0b11011000011100011 | 0x1b0e3
 
+```
 ███ 
   ██
+```
 
 other instances: 15
     - $49
@@ -25214,11 +26822,13 @@ other instances: 15
     - $748
 --------
 
-#804
+# 804
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
@@ -25238,12 +26848,14 @@ other instances: 15
     - $813
 --------
 
-#805
+# 805
 110735 - 4x2 pentomino
 0b11011000010001111 | 0x1b08f
 
+```
 █   
 ████
+```
 
 other instances: 15
     - $1
@@ -25263,12 +26875,14 @@ other instances: 15
     - $769
 --------
 
-#806
+# 806
 110840 - 4x2 pentomino
 0b11011000011111000 | 0x1b0f8
 
+```
 ████
 █   
+```
 
 other instances: 15
     - $2
@@ -25288,12 +26902,14 @@ other instances: 15
     - $777
 --------
 
-#807
+# 807
 110671 - 4x2 pentomino
 0b11011000001001111 | 0x1b04f
 
+```
  █  
 ████
+```
 
 other instances: 27
     - $3
@@ -25325,12 +26941,14 @@ other instances: 27
     - $782
 --------
 
-#808
+# 808
 110836 - 4x2 pentomino
 0b11011000011110100 | 0x1b0f4
 
+```
 ████
  █  
+```
 
 other instances: 27
     - $4
@@ -25362,12 +26980,14 @@ other instances: 27
     - $789
 --------
 
-#809
+# 809
 110639 - 4x2 pentomino
 0b11011000000101111 | 0x1b02f
 
+```
   █ 
 ████
+```
 
 other instances: 27
     - $5
@@ -25399,12 +27019,14 @@ other instances: 27
     - $795
 --------
 
-#810
+# 810
 110834 - 4x2 pentomino
 0b11011000011110010 | 0x1b0f2
 
+```
 ████
   █ 
+```
 
 other instances: 27
     - $6
@@ -25436,12 +27058,14 @@ other instances: 27
     - $802
 --------
 
-#811
+# 811
 110623 - 4x2 pentomino
 0b11011000000011111 | 0x1b01f
 
+```
    █
 ████
+```
 
 other instances: 15
     - $7
@@ -25461,12 +27085,14 @@ other instances: 15
     - $790
 --------
 
-#812
+# 812
 110833 - 4x2 pentomino
 0b11011000011110001 | 0x1b0f1
 
+```
 ████
    █
+```
 
 other instances: 15
     - $8
@@ -25486,11 +27112,13 @@ other instances: 15
     - $796
 --------
 
-#813
+# 813
 41503 - 5x1 pentomino
 0b1010001000011111 | 0xa21f
 
+```
 █████
+```
 
 other instances: 15
     - $0
