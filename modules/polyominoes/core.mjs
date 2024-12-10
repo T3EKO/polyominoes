@@ -72,6 +72,38 @@ class Polyomino {
         return shapeStr;
     }
 
+    getOutlineString() {
+        const edges = [
+            "  ", //  
+            "┛ ", // ▘
+            "┗━", // ▝
+            "┻━", // ▀
+            "┓ ", // ▖
+            "┫ ", // ▌
+            "╋━", // ▞
+            "╋━", // ▛
+            "┏━", // ▗
+            "╋━", // ▚
+            "┣━", // ▐
+            "╋━", // ▜
+            "┳━", // ▄
+            "╋━", // ▙
+            "╋━", // ▟
+            "╋━"  // █
+        ];
+
+
+        let shapeStr = "";
+        for(let iy = 0;iy < this.size.y + 1;iy++) {
+            for(let ix = 0;ix < this.size.x + 1;ix++) {
+                const config = (this.containsCell(new Vec2(ix - 1, iy - 1)) ? 0b0001 : 0) + (this.containsCell(new Vec2(ix, iy - 1)) ? 0b0010 : 0) + (this.containsCell(new Vec2(ix - 1, iy)) ? 0b0100 : 0) + (this.containsCell(new Vec2(ix, iy)) ? 0b1000 : 0);
+                shapeStr += edges[config];
+            }
+            if(iy < this.size.y) shapeStr += "\n";
+        }
+        return shapeStr;
+    }
+
     // checks
 
     containsCell(pos) {

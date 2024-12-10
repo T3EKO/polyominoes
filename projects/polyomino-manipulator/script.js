@@ -212,7 +212,7 @@ function generateOminoInfo(omino, n) {
     return [
         `# \`#${n}\` - \`${omino.size.x}x${omino.size.y}\` ${omino.getName()}`,
         `\`${generateUniqueIndex(omino)}\` | \`0b${generateUniqueIndex(omino).toString(2)}\` | \`0x${generateUniqueIndex(omino).toString(16)}\``,
-        `\n\`\`\`\n${omino.getShapeString()}\n\`\`\``,
+        `\n\`\`\`\n${omino.getOutlineString()}\n\`\`\``,
         `\nother instances: ${duplicateIdxs.length}\n${duplicateData.join("\n")}`,
         `--------`
     ].join("\n");
