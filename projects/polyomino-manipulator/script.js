@@ -206,7 +206,7 @@ function generateOminoInfo(omino, n) {
     const duplicateIdxs = ArrayFunctions.findDuplicateIdxs(ominoes, omino, Polyomino.matchesFixed, n);
 
     const duplicateData = duplicateIdxs.map(
-        idx => `\t- \`${idx}\``
+        idx => `- ${idx}`
     );
 
     return [
