@@ -206,11 +206,11 @@ function generateOminoInfo(omino, n) {
     const duplicateIdxs = ArrayFunctions.findDuplicateIdxs(ominoes, omino, Polyomino.matchesFixed, n);
 
     const duplicateData = duplicateIdxs.map(
-        idx => `\t- $\`${idx}\``
+        idx => `\t- \`${idx}\``
     );
 
     return [
-        `# #${n} - \`${omino.size.x}x${omino.size.y}\` ${omino.getName()}`,
+        `# \`#${n}\` - \`${omino.size.x}x${omino.size.y}\` ${omino.getName()}`,
         `\`${generateUniqueIndex(omino)}\` | \`0b${generateUniqueIndex(omino).toString(2)}\` | \`0x${generateUniqueIndex(omino).toString(16)}\``,
         `\n\`\`\`\n${omino.getShapeString()}\n\`\`\``,
         `\nother instances: ${duplicateIdxs.length}\n${duplicateData.join("\n")}`,
